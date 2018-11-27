@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Feralisk -->
+  <AA_Arachnid.label>Spinnenartiger Körper</AA_Arachnid.label>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.1.customLabel>linkes erstes Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.1.customLabel>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.2.customLabel>linkes zweites Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.2.customLabel>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.3.customLabel>linkes drittes Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.3.customLabel>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.4.customLabel>linkes viertes Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.4.customLabel>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.5.customLabel>rechtes erstes Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.5.customLabel>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.6.customLabel>rechtes zweites Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.6.customLabel>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.7.customLabel>rechtes drittes Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.7.customLabel>
+  <AA_Arachnid.corePart.parts.3.parts.0.parts.8.customLabel>rechtes viertes Auge</AA_Arachnid.corePart.parts.3.parts.0.parts.8.customLabel>
+  <AA_Arachnid.corePart.parts.4.customLabel>linkes erstes Bein</AA_Arachnid.corePart.parts.4.customLabel>
+  <AA_Arachnid.corePart.parts.5.customLabel>rechtes erstes Bein</AA_Arachnid.corePart.parts.5.customLabel>
+  <AA_Arachnid.corePart.parts.6.customLabel>linkes zweites Bein</AA_Arachnid.corePart.parts.6.customLabel>
+  <AA_Arachnid.corePart.parts.7.customLabel>rechtes zweites Bein</AA_Arachnid.corePart.parts.7.customLabel>
+  <AA_Arachnid.corePart.parts.8.customLabel>linkes drittes Bein</AA_Arachnid.corePart.parts.8.customLabel>
+  <AA_Arachnid.corePart.parts.9.customLabel>rechtes drittes Bein</AA_Arachnid.corePart.parts.9.customLabel>
+  <AA_Arachnid.corePart.parts.10.customLabel>linkes viertes Bein</AA_Arachnid.corePart.parts.10.customLabel>
+  <AA_Arachnid.corePart.parts.11.customLabel>rechtes viertes Bein</AA_Arachnid.corePart.parts.11.customLabel>
+</LanguageData>

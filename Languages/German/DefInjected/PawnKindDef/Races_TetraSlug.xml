@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_TetraSlug.label>Tetra-Schnecke</AA_TetraSlug.label>
+  <AA_TetraSlug.labelPlural>Tetra-Schnecken</AA_TetraSlug.labelPlural>
+  <AA_TetraSlug.lifeStages.0.label>Tetra-Schneckenlarve</AA_TetraSlug.lifeStages.0.label>
+  <AA_TetraSlug.lifeStages.0.labelPlural>Tetra-Schneckenlarven</AA_TetraSlug.lifeStages.0.labelPlural>
+  <AA_TetraSlug.lifeStages.1.label>junge Tetra-Schnecke</AA_TetraSlug.lifeStages.1.label>
+  <AA_TetraSlug.lifeStages.1.labelPlural>junge Tetra-Schnecken</AA_TetraSlug.lifeStages.1.labelPlural>
+  <AA_TetraSlug.lifeStages.2.label>Tetra-Schnecke</AA_TetraSlug.lifeStages.2.label>
+  <AA_TetraSlug.lifeStages.2.labelPlural>Tetra-Schnecken</AA_TetraSlug.lifeStages.2.labelPlural>
+</LanguageData>

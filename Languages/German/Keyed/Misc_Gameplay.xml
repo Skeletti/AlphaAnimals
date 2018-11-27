@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Misc -->
+  <AA_AsexualHatched>{0} hat sich asexuell vermehrt.</AA_AsexualHatched>
+  <AA_AsexualHatchedEgg>{0} hat Sporen gebildet.</AA_AsexualHatchedEgg>
+  <!-- Incidents -->
+  <LetterLabelColossalAerofleetPasses>Riesiges Aerofleet</LetterLabelColossalAerofleetPasses>
+  <LetterColossalAerofleetPasses>Eine seltsame in der Luft schwimmende Kreatur hüpft in der Ferne herum und taumelt durch die Landschaft.
+
+Eine Horde kleinerer Exemplare scheint sich von ihr angezogen zu fühlen und ihr in kurzer Entfernung zu folgen.
+
+Sie scheinen größtenteils harmlos zu sein und werden wahrscheinlich das Gebiet verlassen, wenn sie gesättigt sind.</LetterColossalAerofleetPasses>
+  <LetterLabelBumbledroneMigration>Hummeldronen Wanderung</LetterLabelBumbledroneMigration>
+  <LetterBumbledroneMigration>Eine kleine Gruppe von Hummeldrohnen, angeführt von einer Hummeldrohnen Königin, hat diesen Bereich betreten.
+
+Hummeldrohnen sind in der Regel nicht aggressiv, es sei denn, sie werden bedroht.
+
+Wahrscheinlich werden sie dieses Gebiet nach einer Weile auf der Suche nach einem ruhigeren Ort verlassen, da die Kolonie für sie zu laut ist.</LetterBumbledroneMigration>
+  <LetterLabelManhuntingArcticLion>Pirschender Arktischer Löwe</LetterLabelManhuntingArcticLion>
+  <ManhuntingArcticLion>Ein Arktischer Löwe verfolgt einen Ihrer Kolonisten aus den Schatten heraus.
+
+Er wird fast unsichtbar sein, bis er sich für einen Angriff entscheidet und von deinen Kolonisten verletzt wird. Kolonisten, die Kampfbereit sind, sowie alarmiert und sich  selbst verteidigen, werden in der Lage sein, ihn zu entdecken, also solltest du dich schnell vorbereiten!
+
+Arktischer Löwen sind furchterregende, gentechnisch veränderte Kreaturen, die für den Kampf in kalten Klimazonen gezüchtet wurden.</ManhuntingArcticLion>
+  <LetterLabelBlizzariskClutchMother>Blizzarisk Brutmutter</LetterLabelBlizzariskClutchMother>
+  <BlizzariskClutchMother>Eine riesige spinnenartige Kreatur namens Blizzarisk, die an kalte Klimazonen angepasst ist, wandert durch dieses Gebiet.
+
+Dieser Blizzarisk scheint viel größer zu sein als üblich und trägt ein Gelege auf dem Rücken. Das klingt nach einem Rezept für eine Katastrophe, wenn man nicht schnell handelt.</BlizzariskClutchMother>
+  <LetterLabelDunealiskClutchMother>Dunealisk Brutmutter</LetterLabelDunealiskClutchMother>
+  <DunealiskClutchMother>Eine riesige spinnenähnliche Kreatur namens Dunealisk, die an heiße Klimazonen angepasst ist, wandert durch dieses Gebiet.
+
+Dieser Dunealisk scheint viel größer zu sein als üblich und trägt ein Gelege auf dem Rücken. Das klingt nach einem Rezept für eine Katastrophe, wenn man nicht schnell handelt.</DunealiskClutchMother>
+  <LetterLabelFeraliskClutchMother>Feralisk Brutmutter</LetterLabelFeraliskClutchMother>
+  <FeraliskClutchMother>Eine riesige spinnenartige Kreatur namens Feralisk wandert durch dieses Gebiet.
+
+Dieser Feralisk scheint viel größer zu sein als üblich und trägt ein Gelege auf dem Rücken. Das klingt nach einem Rezept für eine Katastrophe, wenn man nicht schnell handelt.</FeraliskClutchMother>
+  <LetterLabelSummitCrab>Gipfelkrabbe</LetterLabelSummitCrab>
+  <SummitCrab>Der Boden zittert, als ein massiver Einsiedlerkrebs, der in einem riesigen Felsbrocken lebt, sich durch dieses Gebiet zieht.
+
+Die gewaltige Gipfelkrabbe ist nicht feindselig, aber ist fast unempfindlich gegen Schüsse und wird alles auf ihrem Weg zerstören, wenn sie nicht gestoppt wird.</SummitCrab>
+  <LetterLabelCactipinePod>Seltsame Transportkapsel</LetterLabelCactipinePod>
+  <CactipineDropPod>Die Luft donnert mit dem unverwechselbaren Klang einer Transportkapsel beim Wiedereintritt. Scanner erkennen Lebenszeichen im Inneren, aber es sind WIRKLICH seltsame Lebenszeichen, als ob der Scanner nicht erkennen könnte, ob es sich um Tier- oder Pflanzenleben handelt.</CactipineDropPod>
+  <LetterLabelGallatrossPasses>Seltene Galatrosse</LetterLabelGallatrossPasses>
+  <LetterGallatrossPasses>Legenden erzählen von einer Kreatur, die so groß und mächtig ist, dass ganze Stämme vor ihrem Anblick flohen. Solche Legenden wurden durch den Galatross inspiriert, ein immenses Wesen mit unersättlichem Appetit. Vielleicht hat es etwas mit dem schwer fassbaren Thrumbo zu tun? Solche Fragen können wahrscheinlich nicht beantwortet werden.</LetterGallatrossPasses>
+  <LetterLabelBlackHiveAttack>Black Hive Angriff</LetterLabelBlackHiveAttack>
+  <LetterBlackHiveAttack>Insektoide im Rim sind gentechnisch veränderte Organismen, die dazu bestimmt sind, mechanoide Invasionen zu bekämpfen. Der Black Hive war des Beste der Besten, wurde entwickelt, um viel aggressiver als sonst zu sein, und sie waren in der Lage, uneinnehmbare mechanoide Festungen zu belagern. Bestehende Insektenarten wurden verbessert und mehrere neue Arten wurden geschaffen und dem Nest hinzugefügt, um seine Tödlichkeit zu erhöhen.
+
+Eine Gruppe von Black Hive Insektoiden hat sich zu diesem Ort gegraben und wird Ihre Basis sofort angreifen.</LetterBlackHiveAttack>
+  <!-- Animal Products -->
+  <HyperweaveDesc>Nanofaser Produktion</HyperweaveDesc>
+  <StoneChunkDesc>Absplitterung von Steinbrocken</StoneChunkDesc>
+  <StoneBlockDesc>Absplitterung eines Steinblocks</StoneBlockDesc>
+  <MedicinalQuillDesc>Wachstum Medizinischer Stachel</MedicinalQuillDesc>
+  <DevilstrandDesc>Wachstum Teufelsgarn</DevilstrandDesc>
+  <SynthreadDesc>Wachstum Syngarn</SynthreadDesc>
+  <ChunkSlagSteelDesc>Absplitterung eines Stahlschlackebrockens</ChunkSlagSteelDesc>
+  <RawMushrooms>Wachstum Pilze</RawMushrooms>
+  <AA_MealNutrientPaste>Nährstoffpasten Herstellung</AA_MealNutrientPaste>
+  <!-- Mod Settings -->
+  <allowBlackHive>Erlaube Black Hive Überfälle</allowBlackHive>
+  <allowStalkingLions>Erlaube pirschende Arktische Löwen Überfälle</allowStalkingLions>
+  <allowCactipineDroppods>Erlaube Cactipine Transportkapsel Ereignisse</allowCactipineDroppods>
+  <allowSpiderClutchMothers>Erlaube Spinnen Brutmutter Events</allowSpiderClutchMothers>
+  <allowAerofleet>Erlaube Aerofleet Wanderungen</allowAerofleet>
+  <allowGallatross>Erlaube Gallatross Wanderungen</allowGallatross>
+  <allowSummitCrab>Erlaube Gipfelkrabben Events</allowSummitCrab>
+  <allowBumbledrones>Erlaube Hummeldronen Wanderungen</allowBumbledrones>
+</LanguageData>

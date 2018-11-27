@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_IronhuskBeetle.label>Eisenhutkäfer</AA_IronhuskBeetle.label>
+  <AA_IronhuskBeetle.description>Eisenhusenkäfer wurden von einer der am Rand des Rim tätigen Miriad-Minengesellschaften gentechnisch verändert. Es ist ein friedliches Nutztier, das gelegentlich metallische Schalen abstößt, die zu Stahl geschmolzen werden können, wodurch der Bedarf an schweren Maschinen im Bergbau entfällt. Als Nachteil verbraucht der Käfer eine große Menge Holz von lebenden Bäumen.
+
+Leider hat die Bergbaugesellschaft, die die Eisenhutkäfer schuf, dies nicht berücksichtigt, und mehrere Planeten im Rim sind heute eine karge ökologische Katastrophe.</AA_IronhuskBeetle.description>
+  <AA_IronhuskBeetle.tools.1.label>Kopf</AA_IronhuskBeetle.tools.1.label>
+  <AA_IronhuskBeetle_Leather.label>Eisenhutkäferleder</AA_IronhuskBeetle_Leather.label>
+  <AA_IronhuskBeetle_Leather.description>Eisenhutkäferleder</AA_IronhuskBeetle_Leather.description>
+  <AA_IronhuskBeetle_Leather.stuffProps.stuffAdjective>Eisenhutkäferleder</AA_IronhuskBeetle_Leather.stuffProps.stuffAdjective>
+  <AA_IronhuskBeetle_Meat.label>Eisenhutkäferfleisch</AA_IronhuskBeetle_Meat.label>
+  <AA_IronhuskBeetle_Meat.description>Eisenhutkäferfleisch</AA_IronhuskBeetle_Meat.description>
+  <AA_IronhuskBeetle_Corpse.label>Toter Eisenhutkäfer</AA_IronhuskBeetle_Corpse.label>
+  <AA_IronhuskBeetle_Corpse.description>Die Leiche eines Eisenhutkäfers.</AA_IronhuskBeetle_Corpse.description>
+</LanguageData>

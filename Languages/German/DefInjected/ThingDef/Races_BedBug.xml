@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_BedBug.label>Wanze</AA_BedBug.label>
+  <AA_BedBug.description>Diese überdimensionalen außerirdischen Insekten gelten in jeder Welt, die sie befallen können, als Schädling und Ärgernis. Obwohl ihr Biss nicht besonders gefährlich oder stark sind, trägt er ein starkes Gift, das seine Beute lähmt, so dass ein kleiner Biss ausreicht, um Beute die viel größer als sie selbst sind zu lähmen. Glücklicherweise sind Menschen viel zu groß für sie, es sei denn, sie sind irgendwie verrückt geworden, ohne jeden Grund... Jäger sollten sich vorsehene, sich mit ihnen anzulegen!</AA_BedBug.description>
+  <AA_BedBug.tools.0.label>Mandibeln</AA_BedBug.tools.0.label>
+  <AA_BedBug.tools.1.label>Kopf</AA_BedBug.tools.1.label>
+  <AA_BedBug_Leather.label>Wanzenleder</AA_BedBug_Leather.label>
+  <AA_BedBug_Leather.description>Wanzenleder</AA_BedBug_Leather.description>
+  <AA_BedBug_Leather.stuffProps.stuffAdjective>Wanzenleder</AA_BedBug_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_BedBug_Corpse.label>Tote Wanze</AA_BedBug_Corpse.label>
+  <AA_BedBug_Corpse.description>Die Leiche einer Wanze.</AA_BedBug_Corpse.description>
+</LanguageData>

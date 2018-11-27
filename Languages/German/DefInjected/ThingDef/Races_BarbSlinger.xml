@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Barbslinger.label>Barbslinger</AA_Barbslinger.label>
+  <AA_Barbslinger.description>Ein großer gentechnisch veränderter Skorpion. Niemand weiß wirklich, woher sie kommen. Aber seiner Fähigkeit nach zu urteilen, Lebewesen in Reichweite auseinander zu reißen und Kebab aus entfernten zu machen, ist es ein Monster, das für den Krieg geschaffen wurde.</AA_Barbslinger.description>
+  <AA_Barbslinger.tools.0.label>linke Schere</AA_Barbslinger.tools.0.label>
+  <AA_Barbslinger.tools.1.label>rechte Schere</AA_Barbslinger.tools.1.label>
+  <AA_Barbslinger.tools.3.label>Kopf</AA_Barbslinger.tools.3.label>
+  <AA_Barbslinger_Leather.label>Barbslingerleder</AA_Barbslinger_Leather.label>
+  <AA_Barbslinger_Leather.description>Barbslingerleder</AA_Barbslinger_Leather.description>
+  <AA_Barbslinger_Leather.stuffProps.stuffAdjective>Barbslingerleder</AA_Barbslinger_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_Barbslinger_Corpse.label>Toter Barbslinger</AA_Barbslinger_Corpse.label>
+  <AA_Barbslinger_Corpse.description>Die Leiche eines Barbslingers.</AA_Barbslinger_Corpse.description>
+</LanguageData>

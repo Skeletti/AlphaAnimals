@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Bumbledrone -->
+  <AA_Wasp.label>Wespenkörper</AA_Wasp.label>
+  <AA_Wasp.corePart.parts.3.parts.0.parts.1.customLabel>linkes erste Auge</AA_Wasp.corePart.parts.3.parts.0.parts.1.customLabel>
+  <AA_Wasp.corePart.parts.3.parts.0.parts.2.customLabel>linkes zweites Auge</AA_Wasp.corePart.parts.3.parts.0.parts.2.customLabel>
+  <AA_Wasp.corePart.parts.5.customLabel>linkes Vorderbein</AA_Wasp.corePart.parts.5.customLabel>
+  <AA_Wasp.corePart.parts.6.customLabel>rechtes Vorderbein</AA_Wasp.corePart.parts.6.customLabel>
+  <AA_Wasp.corePart.parts.7.customLabel>linkes Hinterbein</AA_Wasp.corePart.parts.7.customLabel>
+  <AA_Wasp.corePart.parts.8.customLabel>rechtes Hinterbein</AA_Wasp.corePart.parts.8.customLabel>
+  <AA_Wasp.corePart.parts.9.customLabel>rechter erster Flügel</AA_Wasp.corePart.parts.9.customLabel>
+  <AA_Wasp.corePart.parts.10.customLabel>rechter zweiter Flügel</AA_Wasp.corePart.parts.10.customLabel>
+  <AA_Wasp.corePart.parts.11.customLabel>linker erster Flügel</AA_Wasp.corePart.parts.11.customLabel>
+  <AA_Wasp.corePart.parts.12.customLabel>linker zweiter Flügel</AA_Wasp.corePart.parts.12.customLabel>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Wildpod.label>Wildpod</AA_Wildpod.label>
+  <AA_Wildpod.labelPlural>Wildpods</AA_Wildpod.labelPlural>
+  <AA_Wildpod.lifeStages.0.label>Wildpodsporling</AA_Wildpod.lifeStages.0.label>
+  <AA_Wildpod.lifeStages.0.labelPlural>Wildpodsporlinge</AA_Wildpod.lifeStages.0.labelPlural>
+  <AA_Wildpod.lifeStages.1.label>Wildpodhülsling</AA_Wildpod.lifeStages.1.label>
+  <AA_Wildpod.lifeStages.1.labelPlural>Wildpodhülslinge</AA_Wildpod.lifeStages.1.labelPlural>
+  <AA_Wildpod.lifeStages.2.label>Wildpod</AA_Wildpod.lifeStages.2.label>
+  <AA_Wildpod.lifeStages.2.labelPlural>Wildpods</AA_Wildpod.lifeStages.2.labelPlural>
+</LanguageData>

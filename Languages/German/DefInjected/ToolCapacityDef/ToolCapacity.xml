@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_ParalysingBite.label>lähmender Biss</AA_ParalysingBite.label>
+  <AA_LockJawDamage.label>Lockjaw Biss</AA_LockJawDamage.label>
+  <AA_ToxicSting.label>giftiger Stich</AA_ToxicSting.label>
+  <AA_VeryToxicSting.label>sehr giftiger Stich</AA_VeryToxicSting.label>
+  <AA_SiegeBlunt.label>Belagerungsquetschung</AA_SiegeBlunt.label>
+  <AA_Pierce.label>durchstechend</AA_Pierce.label>
+  <BodyCrush.label>zermalmend</BodyCrush.label>
+</LanguageData>

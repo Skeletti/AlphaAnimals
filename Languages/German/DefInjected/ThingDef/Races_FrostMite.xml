@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Frostmite.label>Frostmilbe</AA_Frostmite.label>
+  <AA_Frostmite.description>Ein großer Parasit, der normalerweise an kalten Orten vorkommt. Sie durchkämmen das kalte, öde Land auf der Suche nach Leichen, die im Schnee vergraben sind, ab. Sie essen das konservierte Fleisch und lassen ein verwüstetes Skelett an seiner Stelle zurück, ohne ihre ursprünglich erkennbare Identität.</AA_Frostmite.description>
+  <AA_Frostmite.tools.0.label>Kopfklaue</AA_Frostmite.tools.0.label>
+  <AA_Frostmite.tools.2.label>Kopf</AA_Frostmite.tools.2.label>
+  <AA_Frostmite_Leather.label>Frostmilbenleder</AA_Frostmite_Leather.label>
+  <AA_Frostmite_Leather.description>Frostmilbenleder</AA_Frostmite_Leather.description>
+  <AA_Frostmite_Leather.stuffProps.stuffAdjective>Frostmilbenleder</AA_Frostmite_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_Frostmite_Corpse.label>Tote Frostmilbe</AA_Frostmite_Corpse.label>
+  <AA_Frostmite_Corpse.description>Die Leiche einer Frostmilbe.</AA_Frostmite_Corpse.description>
+</LanguageData>

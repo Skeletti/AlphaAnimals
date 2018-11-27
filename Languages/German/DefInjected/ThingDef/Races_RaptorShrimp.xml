@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_RaptorShrimp.label>Raptorgarnele</AA_RaptorShrimp.label>
+  <AA_RaptorShrimp.description>Eine große gentechnisch veränderte Kreatur, deren Ursprung unbekannt ist. Sie sind dafür bekannt, in tropischen Regionen zu Hause zu sein. Bei den Einheimischen wird oft berichtet, dass sie Angst bekommen, da diejenigen, die das Gebiet durchqueren, vermisst werden; ihre Leichen wurden nie gefunden.
+
+Die wenigen, die eine Begegnung mit diesen Monstern überlebt haben, berichten von zuckenden Kugeln, zerrissenen Gliedmaßen ihrer Gefährten und der Aussage "Das Gras hat Augen".
+
+Raptorgarnelen haben eine beeindruckende Regenerationsfähigkeit und sollten erst dann als tot angesehen werden, wenn sie es absolut und zweifellos sind.</AA_RaptorShrimp.description>
+  <AA_RaptorShrimp.tools.0.label>Kopf</AA_RaptorShrimp.tools.0.label>
+  <AA_RaptorShrimp.tools.2.label>linke Klinge</AA_RaptorShrimp.tools.2.label>
+  <AA_RaptorShrimp.tools.3.label>rechte Klinge</AA_RaptorShrimp.tools.3.label>
+  <AA_RaptorShrimp_Leather.label>Raptorgarnelenleder</AA_RaptorShrimp_Leather.label>
+  <AA_RaptorShrimp_Leather.description>Raptorgarnelenleder</AA_RaptorShrimp_Leather.description>
+  <AA_RaptorShrimp_Leather.stuffProps.stuffAdjective>Raptorgarnelenleder</AA_RaptorShrimp_Leather.stuffProps.stuffAdjective>
+  <AA_RaptorShrimp_Meat.label>Raptorgarnelenfleisch</AA_RaptorShrimp_Meat.label>
+  <AA_RaptorShrimp_Meat.description>Raptorgarnelenfleisch</AA_RaptorShrimp_Meat.description>
+  <AA_RaptorShrimp_Corpse.label>Toter Raptorshrimp</AA_RaptorShrimp_Corpse.label>
+  <AA_RaptorShrimp_Corpse.description>Die Leiche eines Raptorshrimps.</AA_RaptorShrimp_Corpse.description>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Implants -->
+  <AA_PermanentBurn.label>permanente Verbrennung</AA_PermanentBurn.label>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>Abgebrannt</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>Ausgebrannt</AA_PermanentBurn.injuryProps.destroyedOutLabel>
+  <AA_PermanentBurn.labelNoun>eine permanente Verbrennung</AA_PermanentBurn.labelNoun>
+  <AA_LightSustenance.label>Sonneneinstrahlungsgrad</AA_LightSustenance.label>
+  <AA_LightSustenance.stages.0.label>ausreichendes Licht</AA_LightSustenance.stages.0.label>
+  <AA_LightSustenance.stages.1.label>schlechte Lichtverhältnisse</AA_LightSustenance.stages.1.label>
+  <AA_LightSustenance.stages.2.label>sehr geringe Lichtverhältnisse</AA_LightSustenance.stages.2.label>
+  <AA_LightSustenance.stages.3.label>fehlende Sonneneinstrahlung</AA_LightSustenance.stages.3.label>
+  <AA_LightSustenance.stages.4.label>extremer Mangel an Nahrung</AA_LightSustenance.stages.4.label>
+</LanguageData>

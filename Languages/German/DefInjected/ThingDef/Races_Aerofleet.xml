@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Aerofleet.label>Aerofleet</AA_Aerofleet.label>
+  <AA_Aerofleet.description>Eine kleine, in der Luft schwimmende gallertartige Kreatur. Angetrieben von dem Wasserstoff, den er aus Wasser und verschiedenen Pflanzenstoffen sammelt, wandern diese matschigen Kreaturen durch das Land und prallen ziellos von Objekten auf ihrem Weg ab.
+
+Eine der wenigen seltenen Kreaturen hier, die seltsamerweise nicht auf menschliches Blut aus ist.  Nun, ist das nicht schön?
+
+Aerofleets sind geschlechtslos und reproduzieren sich durch Strobilation, eine Form der asexuellen Reproduktion.</AA_Aerofleet.description>
+  <AA_Aerofleet.tools.1.label>Tentakel</AA_Aerofleet.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AA_Aerofleet_Corpse.label>Toter Aerofleet</AA_Aerofleet_Corpse.label>
+  <AA_Aerofleet_Corpse.description>Die Leiche eines Aerofleets.</AA_Aerofleet_Corpse.description>
+  <AA_ColossalAerofleet.label>Riesiges Aerofleet</AA_ColossalAerofleet.label>
+  <AA_ColossalAerofleet.description>Eine riesige, in der Luft schwimmende gallertartige Kreatur. Angetrieben von dem Wasserstoff, den er aus Wasser und verschiedenen Pflanzenstoffen sammelt, wandern diese matschigen Kreaturen durch das Land und prallen ziellos von Objekten auf ihrem Weg ab.
+
+Eine der wenigen seltenen Kreaturen hier, die seltsamerweise nicht auf menschliches Blut aus ist. Nun, ist das nicht schön?
+
+Dieses Aerofleet ist irgendwie zu einer extremen Größe herangewachsen und scheint zu alt für die Reproduktion zu sein. Eine kleine Anzahl jüngerer Aerofleets scheint sich von ihr angezogen zu fühlen und scheint ihr überallhin zu folgen.</AA_ColossalAerofleet.description>
+  <AA_ColossalAerofleet.tools.1.label>Tentakel</AA_ColossalAerofleet.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AA_ColossalAerofleet_Corpse.label>Toter Riesiges Aerofleet</AA_ColossalAerofleet_Corpse.label>
+  <AA_ColossalAerofleet_Corpse.description>Die Leiche eines Riesigen Aerofleets.</AA_ColossalAerofleet_Corpse.description>
+</LanguageData>

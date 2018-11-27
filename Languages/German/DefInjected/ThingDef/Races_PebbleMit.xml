@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_PebbleMit.label>Kieselkrabbe</AA_PebbleMit.label>
+  <AA_PebbleMit.description>Kieselkrabbe sind Felsenkrabben, die sich in RimWorlds entwickelt haben, die reich an engen, labyrinthischen Höhlen sind, in denen massive Größe mehr ein Hindernis als ein Vorteil ist.
+
+Anstelle von riesigen Felsbrocken verwenden Kieselkrabben viel kleinere Felsen als Schutz und ziehen sie langsam über den Boden.  Kleine Steinblöcke lösen sich periodisch von diesem Gestein und können als Baumaterial verwendet werden.</AA_PebbleMit.description>
+  <AA_PebbleMit.tools.1.label>Kopf</AA_PebbleMit.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <AA_PebbleMit_Meat.label>Kieselkrabbenfleisch</AA_PebbleMit_Meat.label>
+  <AA_PebbleMit_Meat.description>Kieselkrabbenfleisch</AA_PebbleMit_Meat.description>
+  <AA_PebbleMit_Corpse.label>Tote Kieselkrabbe</AA_PebbleMit_Corpse.label>
+  <AA_PebbleMit_Corpse.description>Die Leiche einer Kieselkrabbe.</AA_PebbleMit_Corpse.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_BoulderMit.label>Felsenkrabbe</AA_BoulderMit.label>
+  <AA_BoulderMit.description>Eine große gentechnisch veränderte Krabbe, die einen Felsbrocken als Panzer benutzt. Sie ist alternativ als Atlas-Krabbe auf verschiedenen kolonisierten Planeten bekannt. Diese massiven Kreaturen haben eine unglaubliche Kraft und werden häufig mit riesigen Felsbrocken gesehen, die normalerweise lebende Dinge und Maschinen gleichermaßen zerstören würden. Legenden erzählen von einer solchen Kreatur, die so groß und mächtig geworden ist, dass sie ganze Berge für ein Zuhause hatte.
+
+Trotz erster Eindrücke ist es recht friedlich.  Bevorzugt, jede Form von Angriff zu ignorieren, die sie erhält. Seine Feinde sterben eher am hohen Alter, als eine solche gepanzerte Kreatur zu erlegen.</AA_BoulderMit.description>
+  <AA_BoulderMit.tools.1.label>Kopf</AA_BoulderMit.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <AA_BoulderMit_Meat.label>Felsenkrabbenfleisch</AA_BoulderMit_Meat.label>
+  <AA_BoulderMit_Meat.description>Felsenkrabbenfleisch</AA_BoulderMit_Meat.description>
+  <AA_BoulderMit_Corpse.label>Tote Felsenkrabbe</AA_BoulderMit_Corpse.label>
+  <AA_BoulderMit_Corpse.description>Die Leiche einer Felsenkrabbe.</AA_BoulderMit_Corpse.description>
+  <AA_SummitCrab.label>Gipfelkrabbe</AA_SummitCrab.label>
+  <AA_SummitCrab.description>Legenden erzählen von einer legendären Felsenkrabbe, die so groß und mächtig geworden ist, dass sie ganze Berge als Heimat hatte.
+
+Dies ist wahrscheinlich nicht der einzige Urheber solcher Geschichten, aber es ist ein schönes Beispiel für eine Kreatur, deren Weg man sicherlich nicht kreuzen will.</AA_SummitCrab.description>
+  <AA_SummitCrab.tools.1.label>Kopf</AA_SummitCrab.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <AA_SummitCrab_Meat.label>Gipfelkrabbenfleisch</AA_SummitCrab_Meat.label>
+  <AA_SummitCrab_Meat.description>Gipfelkrabbenfleisch</AA_SummitCrab_Meat.description>
+  <AA_SummitCrab_Corpse.label>Tote Gipfelkrabbe</AA_SummitCrab_Corpse.label>
+  <AA_SummitCrab_Corpse.description>Die Leiche einer Gipfelkrabbe.</AA_SummitCrab_Corpse.description>
+</LanguageData>

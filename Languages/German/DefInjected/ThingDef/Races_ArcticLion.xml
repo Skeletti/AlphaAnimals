@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_ArcticLion.label>Arktischer Löwe</AA_ArcticLion.label>
+  <AA_ArcticLion.description>Diese großen Nachkommen des heute fast ausgestorbenen Löwen wurden von der Marine speziell als Überfallkommando für extrem niedrige Temperaturen entwickelt. Sein Fell wird auf dem gesamten Schwarzmarkt wegen seiner einzigartigen Lichtreflexionsfähigkeit geschätzt, und sein strapazierfähiges Leder bietet eine überraschend hohe Wärmedämmung.
+
+Auch wenn seine Gefährlichkeit und Fähigkeiten allgemein bekannt sind, versuchen viele immer noch diese Tier zu erjagen. Diejenigen, die dies versuchen, verlieren normalerweise ihr Leben.</AA_ArcticLion.description>
+  <AA_ArcticLion.tools.0.label>linke Klaue</AA_ArcticLion.tools.0.label>
+  <AA_ArcticLion.tools.1.label>rechte Klaue</AA_ArcticLion.tools.1.label>
+  <AA_ArcticLion.tools.3.label>Kopf</AA_ArcticLion.tools.3.label>
+  <AA_ArcticLion_Leather.label>Arktischer Löwenleder</AA_ArcticLion_Leather.label>
+  <AA_ArcticLion_Leather.description>Arktischer Löwenleder</AA_ArcticLion_Leather.description>
+  <AA_ArcticLion_Leather.stuffProps.stuffAdjective>Arktischer Löwenleder</AA_ArcticLion_Leather.stuffProps.stuffAdjective>
+  <AA_ArcticLion_Meat.label>Arktischer Löwenfleisch</AA_ArcticLion_Meat.label>
+  <AA_ArcticLion_Meat.description>Arktischer Löwenfleisch</AA_ArcticLion_Meat.description>
+  <AA_ArcticLion_Corpse.label>Toter Arktischer Löwe</AA_ArcticLion_Corpse.label>
+  <AA_ArcticLion_Corpse.description>Die Leiche eines Arktischen Löwens.</AA_ArcticLion_Corpse.description>
+</LanguageData>

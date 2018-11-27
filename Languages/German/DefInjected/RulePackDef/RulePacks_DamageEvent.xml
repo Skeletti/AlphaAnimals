@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.0>damage_source-&gt;Eine [grinding] Gipfelkrabbe [crushed]</AA_DamageEvent_Crushing.rulePack.rulesStrings.0>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.1>destroyed_present(p=3)-&gt;reißt ab</AA_DamageEvent_Crushing.rulePack.rulesStrings.1>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.2>grinding-&gt;stampfend</AA_DamageEvent_Crushing.rulePack.rulesStrings.2>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.3>grinding-&gt;überrollt</AA_DamageEvent_Crushing.rulePack.rulesStrings.3>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.4>grinding(p=10)-&gt;</AA_DamageEvent_Crushing.rulePack.rulesStrings.4>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.5>crushed(p=8)-&gt;zerquetschte</AA_DamageEvent_Crushing.rulePack.rulesStrings.5>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.6>crushed-&gt;pulverisierte</AA_DamageEvent_Crushing.rulePack.rulesStrings.6>
+  <AA_DamageEvent_Crushing.rulePack.rulesStrings.7>crushed-&gt;zerdrückte</AA_DamageEvent_Crushing.rulePack.rulesStrings.7>
+</LanguageData>

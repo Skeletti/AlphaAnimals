@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Nightling.label>Nightling</AA_Nightling.label>
+  <AA_Nightling.description>Ein schlankes Raubtier mit Reihen von Stacheln auf dem Rücken. Der Nightling ist ein rein nachtaktiver Jäger, daher sein Name, und ist keineswegs zurückhaltend, wenn es darum geht, viel größere Tiere oder Menschen als sich selbst zu jagen. Abgesehen von seinen starken Kiefern können Nighlings die Stacheln auf den Rücken verschießen, um ihre Beute zu überwältigen.</AA_Nightling.description>
+  <AA_Nightling.tools.0.label>linke Klaue</AA_Nightling.tools.0.label>
+  <AA_Nightling.tools.1.label>rechte Klaue</AA_Nightling.tools.1.label>
+  <AA_Nightling.tools.3.label>Kopf</AA_Nightling.tools.3.label>
+  <AA_Nightling_Leather.label>Nightlingleder</AA_Nightling_Leather.label>
+  <AA_Nightling_Leather.description>Nightlingleder</AA_Nightling_Leather.description>
+  <AA_Nightling_Leather.stuffProps.stuffAdjective>Nightlingleder</AA_Nightling_Leather.stuffProps.stuffAdjective>
+  <AA_Nightling_Meat.label>Nightlingfleisch</AA_Nightling_Meat.label>
+  <AA_Nightling_Meat.description>Nightlingfleisch</AA_Nightling_Meat.description>
+  <AA_Nightling_Corpse.label>Toter Nightling</AA_Nightling_Corpse.label>
+  <AA_Nightling_Corpse.description>Die Leiche eines Nightlings.</AA_Nightling_Corpse.description>
+</LanguageData>

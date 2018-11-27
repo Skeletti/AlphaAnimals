@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Wildpawn.label>Wildpawn</AA_Wildpawn.label>
+  <AA_Wildpawn.description>Wildpawns sind eine Variante der Wildpods, die sich an das Leben außerhalb von Sümpfen und Regenwäldern angepasst haben. Da sie weniger Zugang zu Wasser und verrottender Vegetation haben, wachsen sie viel langsamer und sind viel ungefährlicher. Wildpawns sind weniger resistent gegen Schüsse, behalten aber die Feuerschwäche ihrer größeren Verwandten. Wildpawns vermehren sich asexuell, indem sie alle paar Wochen Sporenhaufen freisetzen, so dass ihre Nachkommen völlig unabhängig von ihr sind, ohne ein Konzept der Elternschaft.
+
+Obwohl riskant, können die Wildpawns für kleine Mengen an essbaren Pilzen gejagt oder gezüchtet werden.</AA_Wildpawn.description>
+  <AA_Wildpawn.tools.0.label>linke Pfote</AA_Wildpawn.tools.0.label>
+  <AA_Wildpawn.tools.1.label>rechte Pfote</AA_Wildpawn.tools.1.label>
+  <AA_Wildpawn.tools.3.label>Kopf</AA_Wildpawn.tools.3.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AA_Wildpawn_Corpse.label>Toter Wildpawn</AA_Wildpawn_Corpse.label>
+  <AA_Wildpawn_Corpse.description>Die Leiche eines Wildpawns.</AA_Wildpawn_Corpse.description>
+</LanguageData>

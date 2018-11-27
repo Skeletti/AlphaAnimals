@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_JellyfishBody.label>Qualle</AA_JellyfishBody.label>
+  <AA_JellyfishBody.corePart.parts.0.customLabel>Magenbeutel</AA_JellyfishBody.corePart.parts.0.customLabel>
+  <AA_JellyfishBody.corePart.parts.1.customLabel>Gastrovaskulärer Hohlraum </AA_JellyfishBody.corePart.parts.1.customLabel>
+  <AA_JellyfishBody.corePart.parts.2.customLabel>linker Wasserstoffsack</AA_JellyfishBody.corePart.parts.2.customLabel>
+  <AA_JellyfishBody.corePart.parts.3.customLabel>rechter Wasserstoffsack</AA_JellyfishBody.corePart.parts.3.customLabel>
+  <AA_JellyfishBody.corePart.parts.4.customLabel>linker Augenpunkt</AA_JellyfishBody.corePart.parts.4.customLabel>
+  <AA_JellyfishBody.corePart.parts.5.customLabel>rechter Augenpunkt</AA_JellyfishBody.corePart.parts.5.customLabel>
+  <AA_JellyfishBody.corePart.parts.7.customLabel>erster Tentakel</AA_JellyfishBody.corePart.parts.7.customLabel>
+  <AA_JellyfishBody.corePart.parts.8.customLabel>zweiter Tentakel</AA_JellyfishBody.corePart.parts.8.customLabel>
+  <AA_JellyfishBody.corePart.parts.9.customLabel>dritter Tentakel</AA_JellyfishBody.corePart.parts.9.customLabel>
+</LanguageData>

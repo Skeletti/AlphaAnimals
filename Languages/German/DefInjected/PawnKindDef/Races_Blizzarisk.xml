@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Blizzarisk.label>Blizzarisk</AA_Blizzarisk.label>
+  <AA_Blizzarisk.labelPlural>Blizzarisken</AA_Blizzarisk.labelPlural>
+  <AA_Blizzarisk.lifeStages.0.label>Blizzariskbaby</AA_Blizzarisk.lifeStages.0.label>
+  <AA_Blizzarisk.lifeStages.0.labelPlural>Blizzariskbabies</AA_Blizzarisk.lifeStages.0.labelPlural>
+  <AA_Blizzarisk.lifeStages.1.label>junger Blizzarisk</AA_Blizzarisk.lifeStages.1.label>
+  <AA_Blizzarisk.lifeStages.1.labelPlural>junge Blizzarisk</AA_Blizzarisk.lifeStages.1.labelPlural>
+  <AA_Blizzarisk.lifeStages.2.label>Blizzarisk</AA_Blizzarisk.lifeStages.2.label>
+  <AA_Blizzarisk.lifeStages.2.labelPlural>Blizzarisken</AA_Blizzarisk.lifeStages.2.labelPlural>
+  <AA_BlizzariskClutchMother.label>Blizzarisk Brutmutter</AA_BlizzariskClutchMother.label>
+  <AA_BlizzariskClutchMother.labelPlural>Blizzarisk Brutmütter</AA_BlizzariskClutchMother.labelPlural>
+  <AA_BlizzariskClutchMother.lifeStages.0.label>Blizzarisk Brutmutterjunge</AA_BlizzariskClutchMother.lifeStages.0.label>
+  <AA_BlizzariskClutchMother.lifeStages.0.labelPlural>Blizzarisk Brutmutterjungen</AA_BlizzariskClutchMother.lifeStages.0.labelPlural>
+  <AA_BlizzariskClutchMother.lifeStages.1.label>junge Blizzarisk Brutmutter</AA_BlizzariskClutchMother.lifeStages.1.label>
+  <AA_BlizzariskClutchMother.lifeStages.1.labelPlural>junge Blizzarisk Brutmütter</AA_BlizzariskClutchMother.lifeStages.1.labelPlural>
+  <AA_BlizzariskClutchMother.lifeStages.2.label>Blizzarisk Brutmutter</AA_BlizzariskClutchMother.lifeStages.2.label>
+  <AA_BlizzariskClutchMother.lifeStages.2.labelPlural>Blizzarisk Brutmütter</AA_BlizzariskClutchMother.lifeStages.2.labelPlural>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- TerramorphWorm -->
+  <AA_Slug.label>Schnecke</AA_Slug.label>
+  <AA_Slug.corePart.parts.0.parts.1.customLabel>linke Lunge</AA_Slug.corePart.parts.0.parts.1.customLabel>
+  <AA_Slug.corePart.parts.0.parts.2.customLabel>rechte Lunge</AA_Slug.corePart.parts.0.parts.2.customLabel>
+  <AA_Slug.corePart.parts.0.parts.5.customLabel>linke Niere</AA_Slug.corePart.parts.0.parts.5.customLabel>
+  <AA_Slug.corePart.parts.0.parts.6.customLabel>rechte Niere</AA_Slug.corePart.parts.0.parts.6.customLabel>
+  <AA_Slug.corePart.parts.1.customLabel>Metallpanzer</AA_Slug.corePart.parts.1.customLabel>
+  <AA_Slug.corePart.parts.2.parts.1.customLabel>linkes Auge</AA_Slug.corePart.parts.2.parts.1.customLabel>
+  <AA_Slug.corePart.parts.2.parts.2.customLabel>rechtes Auge</AA_Slug.corePart.parts.2.parts.2.customLabel>
+</LanguageData>

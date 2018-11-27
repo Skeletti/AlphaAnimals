@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Feralisk.label>Feralisk</AA_Feralisk.label>
+  <AA_Feralisk.description>Jemand dachte einmal, dass die Entwicklung von überdimensionalen Spinnen für die Nanofaser-Fadenproduktion eine gute Idee wäre. Ihr Heimatplanet ist nun auf eine Marmorwelt reduziert, eine Welt, die vollständig durch Atomfeuer gereinigt wurde.
+
+Feralisken greifen an, indem sie Spinnennetze auf ihre Beute werfen. Diese riesigen Netze betäuben jeden, den sie berühren, und ermöglichen es dem Feralisken, sich zu nähern und den Kampf mit ihren furchterregenden, mit Gift überzogenen Reißzähnen zu beenden.</AA_Feralisk.description>
+  <AA_Feralisk.tools.0.label>linkes Vorderbein</AA_Feralisk.tools.0.label>
+  <AA_Feralisk.tools.1.label>rechtes Vorderbein</AA_Feralisk.tools.1.label>
+  <AA_Feralisk.tools.3.label>Kopf</AA_Feralisk.tools.3.label>
+  <AA_Feralisk_Leather.label>Feraliskenleder</AA_Feralisk_Leather.label>
+  <AA_Feralisk_Leather.description>Feraliskenleder</AA_Feralisk_Leather.description>
+  <AA_Feralisk_Leather.stuffProps.stuffAdjective>Feraliskenleder</AA_Feralisk_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_Feralisk_Corpse.label>Toter Feralisk</AA_Feralisk_Corpse.label>
+  <AA_Feralisk_Corpse.description>Die Leiche eines Feralisken.</AA_Feralisk_Corpse.description>
+  <AA_FeraliskClutchMother.label>Feralisk Brutmutter</AA_FeraliskClutchMother.label>
+  <AA_FeraliskClutchMother.description>Jemand dachte einmal, dass die Entwicklung von überdimensionalen Spinnen für die Nanofaser-Fadenproduktion eine gute Idee wäre. Ihr Heimatplanet ist nun auf eine Marmorwelt reduziert, eine Welt, die vollständig durch Atomfeuer gereinigt wurde.
+
+Feralisken greifen an, indem sie Spinnennetze auf ihre Beute werfen. Diese riesigen Netze betäuben jeden, den sie berühren, und ermöglichen es dem Feralisken, sich zu nähern und den Kampf mit ihren furchterregenden, mit Gift überzogenen Reißzähnen zu beenden.
+
+Dieser Feralisk scheint viel größer zu sein als üblich und trägt ein Gelege auf dem Rücken. Das klingt nach einem Rezept für eine Katastrophe, wenn man nicht schnell handelt.</AA_FeraliskClutchMother.description>
+  <AA_FeraliskClutchMother.tools.0.label>linkes Vorderbein</AA_FeraliskClutchMother.tools.0.label>
+  <AA_FeraliskClutchMother.tools.1.label>rechtes Vorderbein</AA_FeraliskClutchMother.tools.1.label>
+  <AA_FeraliskClutchMother.tools.3.label>Kopf</AA_FeraliskClutchMother.tools.3.label>
+  <AA_FeraliskClutchMother_Leather.label>Feralisk Brutmutterleder</AA_FeraliskClutchMother_Leather.label>
+  <AA_FeraliskClutchMother_Leather.description>Feralisk Brutmutterleder</AA_FeraliskClutchMother_Leather.description>
+  <AA_FeraliskClutchMother_Leather.stuffProps.stuffAdjective>Feralisk Brutmutterleder</AA_FeraliskClutchMother_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_FeraliskClutchMother_Corpse.label>Tote Feralisk Brutmutter</AA_FeraliskClutchMother_Corpse.label>
+  <AA_FeraliskClutchMother_Corpse.description>Die Leiche einer Feralisk Brutmutter.</AA_FeraliskClutchMother_Corpse.description>
+</LanguageData>

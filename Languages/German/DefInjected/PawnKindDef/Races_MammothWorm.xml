@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_MammothWorm.label>Mammutwurm</AA_MammothWorm.label>
+  <AA_MammothWorm.labelPlural>Mammutwürmer</AA_MammothWorm.labelPlural>
+  <AA_MammothWorm.lifeStages.0.label>Mammutwurmlarve</AA_MammothWorm.lifeStages.0.label>
+  <AA_MammothWorm.lifeStages.0.labelPlural>Mammutwurmlarven</AA_MammothWorm.lifeStages.0.labelPlural>
+  <AA_MammothWorm.lifeStages.1.label>junger Mammutwurm</AA_MammothWorm.lifeStages.1.label>
+  <AA_MammothWorm.lifeStages.1.labelPlural>junge Mammutwürmer</AA_MammothWorm.lifeStages.1.labelPlural>
+  <AA_MammothWorm.lifeStages.2.label>Mammutwurm</AA_MammothWorm.lifeStages.2.label>
+  <AA_MammothWorm.lifeStages.2.labelPlural>Mammutwürmer</AA_MammothWorm.lifeStages.2.labelPlural>
+</LanguageData>

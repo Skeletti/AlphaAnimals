@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Blizzarisk.label>Blizzarisk</AA_Blizzarisk.label>
+  <AA_Blizzarisk.description>Jemand dachte einmal, dass die Herstellung von überdimensionalen Spinnen für die Herstellung von Nanofaser-Fadenproduktion eine gute Idee wäre. Ihr Heimatplanet ist nun auf eine Marmorwelt reduziert, eine Welt, die vollständig durch Atomfeuer gereinigt wurde. Der Blizzarisk ist eine mutierte Variante des Feralisken, die sich an extrem kalte Klimazonen angepasst hat.
+
+Blizzarisks greifen an, indem sie Spinnennetze auf ihre Beute werfen. Diese riesigen Netze betäuben und frieren jeden, den sie berühren ein, und ermöglichen es dem Blizzarisk, sich zu nähern und den Kampf mit ihren furchterregenden, mit Gift überzogenen Reißzähnen zu beenden.</AA_Blizzarisk.description>
+  <AA_Blizzarisk.tools.0.label>linkes Vorderbein</AA_Blizzarisk.tools.0.label>
+  <AA_Blizzarisk.tools.1.label>rechtes Vorderbein</AA_Blizzarisk.tools.1.label>
+  <AA_Blizzarisk.tools.3.label>Kopf</AA_Blizzarisk.tools.3.label>
+  <AA_Blizzarisk_Leather.label>Blizzariskenleder</AA_Blizzarisk_Leather.label>
+  <AA_Blizzarisk_Leather.description>Blizzariskenleder</AA_Blizzarisk_Leather.description>
+  <AA_Blizzarisk_Leather.stuffProps.stuffAdjective>Blizzariskenleder</AA_Blizzarisk_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_Blizzarisk_Corpse.label>Toter Blizzarisk</AA_Blizzarisk_Corpse.label>
+  <AA_Blizzarisk_Corpse.description>Die Leiche eines Blizzarisken.</AA_Blizzarisk_Corpse.description>
+  <AA_BlizzariskClutchMother.label>Blizzarisk Brutmutter</AA_BlizzariskClutchMother.label>
+  <AA_BlizzariskClutchMother.description>Jemand dachte einmal, dass die Herstellung von überdimensionalen Spinnen für die Herstellung von Nanofaser-Fadenproduktion eine gute Idee wäre. Ihr Heimatplanet ist nun auf eine Marmorwelt reduziert, eine Welt, die vollständig durch Atomfeuer gereinigt wurde. Der Blizzarisk ist eine mutierte Variante des Feralisken, die sich an extrem kalte Klimazonen angepasst hat.
+
+Blizzarisks greifen an, indem sie Spinnennetze auf ihre Beute werfen. Diese riesigen Netze betäuben und frieren jeden, den sie berühren ein, und ermöglichen es dem Blizzarisk, sich zu nähern und den Kampf mit ihren furchterregenden, mit Gift überzogenen Reißzähnen zu beenden.
+
+Dieser Blizzarisk scheint viel größer zu sein als üblich und trägt eine Gelege auf dem Rücken. Das klingt nach einem Rezept für eine Katastrophe, wenn man nicht schnell handelt.</AA_BlizzariskClutchMother.description>
+  <AA_BlizzariskClutchMother.tools.0.label>linkes Vorderbein</AA_BlizzariskClutchMother.tools.0.label>
+  <AA_BlizzariskClutchMother.tools.1.label>rechtes Vorderbein</AA_BlizzariskClutchMother.tools.1.label>
+  <AA_BlizzariskClutchMother.tools.3.label>Kopf</AA_BlizzariskClutchMother.tools.3.label>
+  <AA_BlizzariskClutchMother_Leather.label>Blizzarisk Brutmutterleder</AA_BlizzariskClutchMother_Leather.label>
+  <AA_BlizzariskClutchMother_Leather.description>Blizzarisk Brutmutterleder</AA_BlizzariskClutchMother_Leather.description>
+  <AA_BlizzariskClutchMother_Leather.stuffProps.stuffAdjective>Blizzarisk Brutmutterleder</AA_BlizzariskClutchMother_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_BlizzariskClutchMother_Corpse.label>Tote Blizzarisk Brutmutter</AA_BlizzariskClutchMother_Corpse.label>
+  <AA_BlizzariskClutchMother_Corpse.description>Die Leiche einer Blizzarisk Brutmutter.</AA_BlizzariskClutchMother_Corpse.description>
+</LanguageData>

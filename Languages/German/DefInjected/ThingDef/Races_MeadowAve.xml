@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_MeadowAve.label>Meadow Ave</AA_MeadowAve.label>
+  <AA_MeadowAve.description>Ein großer flugunfähiger Vogel mit bunten Federn. Meistens in den Ebenen zu finden wo sie Früchte und Beeren essen. Sie ziehen die Augen und Hände derer an, die vorbeiziehen. Viele vergessen, dass sich unter dem majestätischen gefiederten Mantel ein Wildtier mit einem rasiermesserscharfen Schnabel und passenden Krallen befindet.</AA_MeadowAve.description>
+  <AA_MeadowAve.tools.0.label>Krallen</AA_MeadowAve.tools.0.label>
+  <AA_MeadowAve.tools.2.label>Kopf</AA_MeadowAve.tools.2.label>
+  <AA_MeadowAve_Leather.label>Meadow Aveleder</AA_MeadowAve_Leather.label>
+  <AA_MeadowAve_Leather.description>Meadow Aveleder</AA_MeadowAve_Leather.description>
+  <AA_MeadowAve_Leather.stuffProps.stuffAdjective>Meadow Aveleder</AA_MeadowAve_Leather.stuffProps.stuffAdjective>
+  <AA_MeadowAve_Meat.label>Meadow Avefleisch</AA_MeadowAve_Meat.label>
+  <AA_MeadowAve_Meat.description>Meadow Avefleisch</AA_MeadowAve_Meat.description>
+  <AA_MeadowAve_Corpse.label>Totes Meadow Ave</AA_MeadowAve_Corpse.label>
+  <AA_MeadowAve_Corpse.description>Die Leiche eines Meadow Aves.</AA_MeadowAve_Corpse.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Body.label>Körper</AA_Body.label>
+  <AA_Mouth.label>Mund</AA_Mouth.label>
+  <AA_Sting.label>Stachel</AA_Sting.label>
+  <AA_PincerAttackTool.label>Zange</AA_PincerAttackTool.label>
+  <AA_BladeAttackTool.label>Klinge</AA_BladeAttackTool.label>
+  <LegAttackTool.label>Bein</LegAttackTool.label>
+  <!--[Core] <TuskAttackTool.label>Stoßzähne</TuskAttackTool.label>-->
+</LanguageData>

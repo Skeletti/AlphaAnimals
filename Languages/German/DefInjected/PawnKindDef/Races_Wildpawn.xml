@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Wildpawn.label>Wildpawn</AA_Wildpawn.label>
+  <AA_Wildpawn.labelPlural>Wildpawns</AA_Wildpawn.labelPlural>
+  <AA_Wildpawn.lifeStages.0.label>Wildpawnmasse</AA_Wildpawn.lifeStages.0.label>
+  <AA_Wildpawn.lifeStages.0.labelPlural>Wildpawnmassen</AA_Wildpawn.lifeStages.0.labelPlural>
+  <AA_Wildpawn.lifeStages.1.label>Wildpawnhülsling</AA_Wildpawn.lifeStages.1.label>
+  <AA_Wildpawn.lifeStages.1.labelPlural>Wildpawnhülslinge</AA_Wildpawn.lifeStages.1.labelPlural>
+  <AA_Wildpawn.lifeStages.2.label>Wildpawn</AA_Wildpawn.lifeStages.2.label>
+  <AA_Wildpawn.lifeStages.2.labelPlural>Wildpawns</AA_Wildpawn.lifeStages.2.labelPlural>
+</LanguageData>

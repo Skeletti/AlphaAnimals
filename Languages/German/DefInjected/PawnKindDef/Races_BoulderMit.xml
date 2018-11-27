@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_BoulderMit.label>Felsenkrabbe</AA_BoulderMit.label>
+  <AA_BoulderMit.labelPlural>Felsenkrabben</AA_BoulderMit.labelPlural>
+  <AA_BoulderMit.lifeStages.0.label>Felsenkrabbenbaby</AA_BoulderMit.lifeStages.0.label>
+  <AA_BoulderMit.lifeStages.0.labelPlural>Felsenkrabbenbabies</AA_BoulderMit.lifeStages.0.labelPlural>
+  <AA_BoulderMit.lifeStages.1.label>junge Felsenkrabbe</AA_BoulderMit.lifeStages.1.label>
+  <AA_BoulderMit.lifeStages.1.labelPlural>junge Felsenkrabben</AA_BoulderMit.lifeStages.1.labelPlural>
+  <AA_BoulderMit.lifeStages.2.label>Felsenkrabbe</AA_BoulderMit.lifeStages.2.label>
+  <AA_BoulderMit.lifeStages.2.labelPlural>Felsenkrabben</AA_BoulderMit.lifeStages.2.labelPlural>
+  <AA_SummitCrab.label>Gipfelkrabbe</AA_SummitCrab.label>
+  <AA_SummitCrab.labelPlural>Gipfelkrabben</AA_SummitCrab.labelPlural>
+  <AA_SummitCrab.lifeStages.0.label>Gipfelkrabbebaby</AA_SummitCrab.lifeStages.0.label>
+  <AA_SummitCrab.lifeStages.0.labelPlural>Gipfelkrabbebabies</AA_SummitCrab.lifeStages.0.labelPlural>
+  <AA_SummitCrab.lifeStages.1.label>junge Gipfelkrabbe</AA_SummitCrab.lifeStages.1.label>
+  <AA_SummitCrab.lifeStages.1.labelPlural>junge Gipfelkrabben</AA_SummitCrab.lifeStages.1.labelPlural>
+  <AA_SummitCrab.lifeStages.2.label>Gipfelkrabbe</AA_SummitCrab.lifeStages.2.label>
+  <AA_SummitCrab.lifeStages.2.labelPlural>Gipfelkrabben</AA_SummitCrab.lifeStages.2.labelPlural>
+</LanguageData>

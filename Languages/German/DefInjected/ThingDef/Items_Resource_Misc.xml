@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_RandomStones.label>zufälliger Steinbrocken</AA_RandomStones.label>
+  <AA_RandomStones.description>Dies sollte niemals im Spiel erscheinen. Wenn ja, dann ist es ein Bug.</AA_RandomStones.description>
+  <AA_RandomBricks.label>zufälliger Steinblock</AA_RandomBricks.label>
+  <AA_RandomBricks.description>Dies sollte niemals im Spiel erscheinen. Wenn ja, dann ist es ein Bug.</AA_RandomBricks.description>
+  <AA_CactipineQuill.label>Medizinischer Stachel</AA_CactipineQuill.label>
+  <AA_CactipineQuill.description>Diese Stacheln sind mit einem starken Anästhetikum beschichtet und können als Alternative zu Kräutermedizin verwendet werden. Nicht so stark wie die normale Medizin, aber nützlich in einer Notsituation.</AA_CactipineQuill.description>
+  <AA_DisgustingMealNutrientPaste.label>ekelhafte Nährstoffpaste</AA_DisgustingMealNutrientPaste.label>
+  <AA_DisgustingMealNutrientPaste.description>Eine synthetische Mischung aus Protein, Kohlenhydraten und Vitaminen, Aminosäuren und Mineralien. Alles, was der Körper braucht, und absolut ekelhaft. Diese Paste ist JEDOCH ekelhafter als die Paste, die von einem Nährstoffpastenspender produziert wird, und die Leute werden es einfach hassen, sie zu essen. Immerhin ist sie billig!</AA_DisgustingMealNutrientPaste.description>
+</LanguageData>

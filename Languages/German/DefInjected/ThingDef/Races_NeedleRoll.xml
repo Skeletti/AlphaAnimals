@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Needleroll.label>Stachelball</AA_Needleroll.label>
+  <AA_Needleroll.description>Stachelbälle sind Stachelpfosten, die sich entwickelt haben, um in den trockensten und heißesten Umgebungen des Rims zu wachsen.
+
+Die Nadelpfosten benötigen fast keine Nahrung und absorbieren die gesamte Energie, die sie benötigen, aus Sonnenlicht und winzigen Mengen Wasser, die sie aus dem Morgentau gewinnen. Wie Nadelpfosten benötigen sie eine große Menge an Sonnenlicht (oder ähnlichem). Nächte werden sie nicht beeinflussen, aber eine Sonnenfinsternis könnte für sie tödlich sein.</AA_Needleroll.description>
+  <AA_Needleroll.tools.0.label>Stacheln</AA_Needleroll.tools.0.label>
+  <AA_Needleroll.tools.2.label>Kopf</AA_Needleroll.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AA_Needleroll_Corpse.label>Toter Stachelball</AA_Needleroll_Corpse.label>
+  <AA_Needleroll_Corpse.description>Die Leiche eines Stachelballs.</AA_Needleroll_Corpse.description>
+</LanguageData>

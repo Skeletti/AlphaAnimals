@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Aerofleet -->
+  <AA_AerofleetMeat.label>Aerofleetfleisch</AA_AerofleetMeat.label>
+  <AA_AerofleetMeat.description>Rohes Fleisch von einem Aerofleet.
+
+Zäh, gallertartig und fade. Ähnlich in der Textur wie eine Qualle.</AA_AerofleetMeat.description>
+  <!-- Cactipine -->
+  <AA_CactusMeat.label>Kaktusfleisch</AA_CactusMeat.label>
+  <AA_CactusMeat.description>Dieses seltsame Fleisch ist teilweise pflanzlich, teilweise tierisch. Verwirrend, um es vorsichtig auszudrücken.</AA_CactusMeat.description>
+  <!-- Black hive jelly -->
+  <AA_BlackInsectJelly.label>Black Hive Insekten Gelee</AA_BlackInsectJelly.label>
+  <AA_BlackInsectJelly.description>Gelee als Nahrung von überdimensionierten Insekten gehortet. Es ist süffig, reich und hat eine entspannende Wirkung. aufgrund ihrer einzigartigen biologischen Eigenschaften kann es nahezu jede Kreatur ernähren und es verdirbt nicht.
+
+Dieses spezielle Insektengelee ist pechschwarz und scheint nährstoffreicher zu sein als sonst.</AA_BlackInsectJelly.description>
+</LanguageData>

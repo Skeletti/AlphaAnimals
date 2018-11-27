@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Dunealisk.label>Dunealisk</AA_Dunealisk.label>
+  <AA_Dunealisk.labelPlural>Dunealisks</AA_Dunealisk.labelPlural>
+  <AA_Dunealisk.lifeStages.0.label>Dunealiskbaby</AA_Dunealisk.lifeStages.0.label>
+  <AA_Dunealisk.lifeStages.0.labelPlural>Dunealiskbabies</AA_Dunealisk.lifeStages.0.labelPlural>
+  <AA_Dunealisk.lifeStages.1.label>Dunealisk</AA_Dunealisk.lifeStages.1.label>
+  <AA_Dunealisk.lifeStages.1.labelPlural>Dunealisks</AA_Dunealisk.lifeStages.1.labelPlural>
+  <AA_Dunealisk.lifeStages.2.label>Dunealisk</AA_Dunealisk.lifeStages.2.label>
+  <AA_Dunealisk.lifeStages.2.labelPlural>Dunealisks</AA_Dunealisk.lifeStages.2.labelPlural>
+  <AA_DunealiskClutchMother.label>Dunealisk Brutmutter</AA_DunealiskClutchMother.label>
+  <AA_DunealiskClutchMother.labelPlural>Dunealisk Brutmütter</AA_DunealiskClutchMother.labelPlural>
+  <AA_DunealiskClutchMother.lifeStages.0.label>Dunealisk Brutmutterbaby</AA_DunealiskClutchMother.lifeStages.0.label>
+  <AA_DunealiskClutchMother.lifeStages.0.labelPlural>Dunealisk Brutmutterbabies</AA_DunealiskClutchMother.lifeStages.0.labelPlural>
+  <AA_DunealiskClutchMother.lifeStages.1.label>junge Dunealisk Brutmutter</AA_DunealiskClutchMother.lifeStages.1.label>
+  <AA_DunealiskClutchMother.lifeStages.1.labelPlural>junge Dunealisk Brutmütter</AA_DunealiskClutchMother.lifeStages.1.labelPlural>
+  <AA_DunealiskClutchMother.lifeStages.2.label>Dunealisk Brutmutter</AA_DunealiskClutchMother.lifeStages.2.label>
+  <AA_DunealiskClutchMother.lifeStages.2.labelPlural>Dunealisk Brutmütter</AA_DunealiskClutchMother.lifeStages.2.labelPlural>
+</LanguageData>

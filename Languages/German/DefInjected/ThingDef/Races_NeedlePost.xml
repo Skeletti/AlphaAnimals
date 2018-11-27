@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Needlepost.label>Stachelpfosten</AA_Needlepost.label>
+  <AA_Needlepost.description>Ein Kaktus, der genetisch verändert wurde, um ihm Empfindungsfähigkeit zu verleihen. Der erste Durchlauf dieser Kreatur sollte ein stationäres taktisches Abschreckungsmittel (der Peitschenkaktus) sein, aber keine Intelligenz oder Mobilität beeinträchtigte ihre Wirksamkeit. Mit ein wenig Gentechnik erhielt sie einen mobilen Körper, eine infantile Intelligenz und giftige Widerhaken als Zugabe. Das Ergebnis ging nach hinten los, da sich die Befehlsausführung als unwirksam erwies. Die Anlage wurde von den Experimenten sofort überrannt, und eine Horde wütender Kakteen entkam in die Wildnis.
+
+Nadelpfosten können ihre Nahrung aus sehr kleinen Mengen an verrottendem Gemüse beziehen, aber sie benötigen eine große Menge an Sonnenlicht (oder ähnlichem) über allem anderen.  Nächte werden sie nicht beeinflussen, aber eine Sonnenfinsternis ist für sie meist tödlich.</AA_Needlepost.description>
+  <AA_Needlepost.tools.0.label>Stacheln</AA_Needlepost.tools.0.label>
+  <AA_Needlepost.tools.2.label>Kopf</AA_Needlepost.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AA_Needlepost_Corpse.label>Toter Nadelpfosten</AA_Needlepost_Corpse.label>
+  <AA_Needlepost_Corpse.description>Die Leiche eines Nadelpfostens.</AA_Needlepost_Corpse.description>
+</LanguageData>

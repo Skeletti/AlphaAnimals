@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Bumbledrone Egg -->
+  <AA_BumbledroneQueenEggFertilized.label>Hummeldrohnenei (befr.)</AA_BumbledroneQueenEggFertilized.label>
+  <AA_BumbledroneQueenEggFertilized.description>Ein befruchtetes Hummeldrohnenei. Ich... Ich würde das nicht essen. Igitt. Wenn alles gut läuft, schlüpft daraus eine Hummeldrohnenlarve. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</AA_BumbledroneQueenEggFertilized.description>
+  <!-- Wildpod Egg -->
+  <AA_WildpodSpores.label>Wildpod Sporenklumpen (befr.)</AA_WildpodSpores.label>
+  <AA_WildpodSpores.description>Ein befruchteter Wildpod Sporenklumpen. Ich... Ich würde das nicht essen. Igitt. Wenn alles gut läuft, entsteht daraus eine Wildpodmasse. Der Sporenklumpen kann roh gegessen werden, ist gekocht aber viel besser.</AA_WildpodSpores.description>
+  <AA_WildpawnSpores.label>Wildpawn Sporenklumpen (befr.)</AA_WildpawnSpores.label>
+  <AA_WildpawnSpores.description>Ein befruchteter Wildpawn Sporenklumpen. Ich... Ich würde das nicht essen. Igitt. Wenn alles gut läuft, entsteht daraus eine Wildpawnmasse. Der Sporenklumpen kann roh gegessen werden, ist gekocht aber viel besser.</AA_WildpawnSpores.description>
+  <!-- Ironhusk Beetle Egg -->
+  <AA_IronhuskEggUnfertilized.label>Eisenhutkäferei (unbefr.)</AA_IronhuskEggUnfertilized.label>
+  <AA_IronhuskEggUnfertilized.description>Ein unbefruchtetes Eisenhutkäferei. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Käferei, es ist so oder so ekelhaft...</AA_IronhuskEggUnfertilized.description>
+  <AA_IronhuskEggFertilized.label>Eisenhutkäferei (befr.)</AA_IronhuskEggFertilized.label>
+  <AA_IronhuskEggFertilized.description>Ein befruchtetes Eisenhutkäferei. Wenn alles gut läuft, schlüpft daraus eine Eisenhutkäferlarve. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Käferei, es ist so oder so ekelhaft...</AA_IronhuskEggFertilized.description>
+  <!-- Mammoth Worm Egg -->
+  <AA_MammothWormEggUnfertilized.label>Mammutwurmei (unbefr.)</AA_MammothWormEggUnfertilized.label>
+  <AA_MammothWormEggUnfertilized.description>Unbefruchtetes Mammutwurmei. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Wurmei, es ist so oder so ekelhaft...</AA_MammothWormEggUnfertilized.description>
+  <AA_MammothWormEggFertilized.label>Mammutwurmei (befr.)</AA_MammothWormEggFertilized.label>
+  <AA_MammothWormEggFertilized.description>Ein befruchtetes Mammutwurmei. Wenn alles gut läuft, schlüpft daraus eine Mammutwurmlarve. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Wurmei, es ist so oder so ekelhaft...</AA_MammothWormEggFertilized.description>
+  <!-- Megalouse Egg -->
+  <AA_MegalouseEggUnfertilized.label>Megalausei (unbefr.)</AA_MegalouseEggUnfertilized.label>
+  <AA_MegalouseEggUnfertilized.description>Ein unbefruchtetes Megalausei. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Läuseei, es ist so oder so ekelhaft...</AA_MegalouseEggUnfertilized.description>
+  <AA_MegalouseEggFertilized.label>Megalausei (befr.)</AA_MegalouseEggFertilized.label>
+  <AA_MegalouseEggFertilized.description>Ein befruchtetes Megalausei. Wenn alles gut läuft, schlüpft daraus eine Megalauslarve. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Läuseei, es ist so oder so ekelhaft...</AA_MegalouseEggFertilized.description>
+  <!-- Bedbug Egg -->
+  <AA_BedBugEggUnfertilized.label>Wanzenei (unbefr.)</AA_BedBugEggUnfertilized.label>
+  <AA_BedBugEggUnfertilized.description>Ein unbefruchtetes Wanzenei. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Käferei, es ist so oder so ekelhaft...</AA_BedBugEggUnfertilized.description>
+  <AA_BedBugEggFertilized.label>Wanzenei (befr.)</AA_BedBugEggFertilized.label>
+  <AA_BedBugEggFertilized.description>Ein befruchtetes Wanzenei. Wenn alles gut läuft, schlüpft daraus eine Wanzenlarve. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Käferei, es ist so oder so ekelhaft...</AA_BedBugEggFertilized.description>
+  <!-- Feralisk Egg -->
+  <AA_FeraliskEggUnfertilized.label>Feraliskenei (unbefr.)</AA_FeraliskEggUnfertilized.label>
+  <AA_FeraliskEggUnfertilized.description>Ein unbefruchtetes Feraliskenei. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft...</AA_FeraliskEggUnfertilized.description>
+  <AA_FeraliskEggFertilized.label>Feraliskenei (befr.)</AA_FeraliskEggFertilized.label>
+  <AA_FeraliskEggFertilized.description>Ein befruchtetes Feraliskenei. Wenn alles gut läuft, schlüpft daraus eine Feraliske. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft...</AA_FeraliskEggFertilized.description>
+  <AA_FeraliskSuperEggFertilized.label>Aufgeladenes Feraliskenei (befr.)</AA_FeraliskSuperEggFertilized.label>
+  <AA_FeraliskSuperEggFertilized.description>Ein befruchtetes Feraliskenei. Wenn alles gut läuft, schlüpft daraus eine Feraliske. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft... Dieses Ei scheint sich mit einer alarmierend beschleunigten Geschwindigkeit zu entwickeln!</AA_FeraliskSuperEggFertilized.description>
+  <!-- Dunealisk Egg -->
+  <AA_DunealiskEggUnfertilized.label>Dunealiskenei (unbefr.)</AA_DunealiskEggUnfertilized.label>
+  <AA_DunealiskEggUnfertilized.description>Ein unbefruchtetes Dunealiskenei. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft...</AA_DunealiskEggUnfertilized.description>
+  <AA_DunealiskEggFertilized.label>Dunealiskenei (befr.)</AA_DunealiskEggFertilized.label>
+  <AA_DunealiskEggFertilized.description>Ein befruchtetes Dunealiskenei. Wenn alles gut läuft, schlüpft daraus eine Dunealiske. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft...</AA_DunealiskEggFertilized.description>
+  <AA_DunealiskSuperEggFertilized.label>Aufgeladenes Dunealiskenei (befr.)</AA_DunealiskSuperEggFertilized.label>
+  <AA_DunealiskSuperEggFertilized.description>Ein befruchtetes Dunealiskenei. Wenn alles gut läuft, schlüpft daraus eine Dunealiske. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft... Dieses Ei scheint sich mit einer alarmierend beschleunigten Geschwindigkeit zu entwickeln!</AA_DunealiskSuperEggFertilized.description>
+  <!-- Blizzarisk Egg -->
+  <AA_BlizzariskEggUnfertilized.label>Blizzariskenei (unbefr.)</AA_BlizzariskEggUnfertilized.label>
+  <AA_BlizzariskEggUnfertilized.description>Ein unbefruchtetes Blizzariskenei. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft...</AA_BlizzariskEggUnfertilized.description>
+  <AA_BlizzariskEggFertilized.label>Blizzariskenei (befr.)</AA_BlizzariskEggFertilized.label>
+  <AA_BlizzariskEggFertilized.description>Ein befruchtetes Blizzariskenei. Wenn alles gut läuft, schlüpft daraus eine Blizzarisk. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft...</AA_BlizzariskEggFertilized.description>
+  <AA_BlizzariskSuperEggFertilized.label>Aufgeladenes Blizzariskenei (befr.)</AA_BlizzariskSuperEggFertilized.label>
+  <AA_BlizzariskSuperEggFertilized.description>Ein befruchtetes Blizzariskenei. Wenn alles gut läuft, schlüpft daraus eine Blizzarisk. Es kann roh gegessen werden, ist gekocht aber viel besser. Eigentlich ist es ein Spinnenei, es ist so oder so ekelhaft... Dieses Ei scheint sich mit einer alarmierend beschleunigten Geschwindigkeit zu entwickeln!</AA_BlizzariskSuperEggFertilized.description>
+  <!-- Nightling Egg -->
+  <AA_EggNightlingFertilized.label>Nightlingei (befr.)</AA_EggNightlingFertilized.label>
+  <AA_EggNightlingFertilized.description>Ein befruchtetes Nightlingei. Wenn alles gut läuft, schlüpft daraus ein Nightlingwelpe. Es kann roh gegessen werden, ist gekocht aber viel besser.</AA_EggNightlingFertilized.description>
+  <!-- Meadow Ave Egg -->
+  <AA_EggMeadowAveFertilized.label>Meadow Ave-Ei (befr.)</AA_EggMeadowAveFertilized.label>
+  <AA_EggMeadowAveFertilized.description>Ein befruchtetes Meadow Ave-Ei. Wenn alles gut läuft, schlüpft daraus ein Meadow Ave Kücken. Es kann roh gegessen werden, ist gekocht aber viel besser.</AA_EggMeadowAveFertilized.description>
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Gallatross.label>Gallatross</AA_Gallatross.label>
+  <AA_Gallatross.description>Throughout every world,
+      Flow the tale of old,
+      A creature with untold might
+      And an immeasurable height.
+      Strength that machines can’t copy
+      Power that so-called gods call heresy.
+      Beware, beware would-be foes
+      Beware, the wrath of the Gallatross.
+
+Freie Übersetzung:
+In jeder Welt,
+      Fließe die Geschichte in jedes Zelt,
+      Eine Kreatur mit ungeahnter Macht.
+      Und einer unermesslichen Pracht.
+      Stärke, die Maschinen nicht kopieren können
+      Macht, die die Götter niemanden gönnen.
+      Hüte dich, hüte dich vor ihrem Geschoss.
+      Hütet euch vor dem Zorn des Galatross.</AA_Gallatross.description>
+  <AA_Gallatross.tools.0.label>Horn</AA_Gallatross.tools.0.label>
+  <AA_Gallatross.tools.1.label>Horn</AA_Gallatross.tools.1.label>
+  <AA_Gallatross.tools.3.label>Kopf</AA_Gallatross.tools.3.label>
+  <AA_Gallatross_Leather.label>Gallatrossleder</AA_Gallatross_Leather.label>
+  <AA_Gallatross_Leather.description>Gallatrossleder</AA_Gallatross_Leather.description>
+  <AA_Gallatross_Leather.stuffProps.stuffAdjective>Gallatrossleder</AA_Gallatross_Leather.stuffProps.stuffAdjective>
+  <AA_Gallatross_Meat.label>Gallatrossfleisch</AA_Gallatross_Meat.label>
+  <AA_Gallatross_Meat.description>Gallatrossfleisch</AA_Gallatross_Meat.description>
+  <AA_Gallatross_Corpse.label>Totes Gallatross</AA_Gallatross_Corpse.label>
+  <AA_Gallatross_Corpse.description>Die Leiche eines Gallatrosses.</AA_Gallatross_Corpse.description>
+</LanguageData>

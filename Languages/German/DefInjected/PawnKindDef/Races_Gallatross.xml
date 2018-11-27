@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Gallatross.label>Gallatross</AA_Gallatross.label>
+  <AA_Gallatross.labelPlural>Gallatrosse</AA_Gallatross.labelPlural>
+  <AA_Gallatross.lifeStages.0.label>Gallatrossbaby</AA_Gallatross.lifeStages.0.label>
+  <AA_Gallatross.lifeStages.0.labelPlural>Gallatrossbabies</AA_Gallatross.lifeStages.0.labelPlural>
+  <AA_Gallatross.lifeStages.1.label>junger Gallatross</AA_Gallatross.lifeStages.1.label>
+  <AA_Gallatross.lifeStages.1.labelPlural>junge Gallatrosse</AA_Gallatross.lifeStages.1.labelPlural>
+  <AA_Gallatross.lifeStages.2.label>Gallatross</AA_Gallatross.lifeStages.2.label>
+  <AA_Gallatross.lifeStages.2.labelPlural>Gallatrosse</AA_Gallatross.lifeStages.2.labelPlural>
+</LanguageData>

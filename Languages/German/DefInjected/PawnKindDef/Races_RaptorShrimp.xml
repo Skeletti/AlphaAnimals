@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_RaptorShrimp.label>Raptorgarnele</AA_RaptorShrimp.label>
+  <AA_RaptorShrimp.labelPlural>Raptorgarnelen</AA_RaptorShrimp.labelPlural>
+  <AA_RaptorShrimp.lifeStages.0.label>Raptorgarnelenjunge</AA_RaptorShrimp.lifeStages.0.label>
+  <AA_RaptorShrimp.lifeStages.0.labelPlural>Raptorgarnelenjunges</AA_RaptorShrimp.lifeStages.0.labelPlural>
+  <AA_RaptorShrimp.lifeStages.1.label>junge Raptorgarnele</AA_RaptorShrimp.lifeStages.1.label>
+  <AA_RaptorShrimp.lifeStages.1.labelPlural>junge Raptorgarnelen</AA_RaptorShrimp.lifeStages.1.labelPlural>
+  <AA_RaptorShrimp.lifeStages.2.label>Raptorgarnele</AA_RaptorShrimp.lifeStages.2.label>
+  <AA_RaptorShrimp.lifeStages.2.labelPlural>Raptorgarnelen</AA_RaptorShrimp.lifeStages.2.labelPlural>
+</LanguageData>

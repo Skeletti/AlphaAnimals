@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_BlackScarab.label>schwarzer Skarabäus</AA_BlackScarab.label>
+  <AA_BlackScarab.labelPlural>schwarze Skarabäen</AA_BlackScarab.labelPlural>
+  <AA_BlackScarab.lifeStages.0.label>schwarzer Skarabäuslarve</AA_BlackScarab.lifeStages.0.label>
+  <AA_BlackScarab.lifeStages.0.labelPlural>schwarze Skarabäenlarven</AA_BlackScarab.lifeStages.0.labelPlural>
+  <AA_BlackScarab.lifeStages.1.label>schwarzer Skarabäus</AA_BlackScarab.lifeStages.1.label>
+  <AA_BlackScarab.lifeStages.1.labelPlural>schwarze Skarabäen</AA_BlackScarab.lifeStages.1.labelPlural>
+  <AA_BlackScarab.lifeStages.2.label>schwarzer Skarabäus</AA_BlackScarab.lifeStages.2.label>
+  <AA_BlackScarab.lifeStages.2.labelPlural>schwarze Skarabäen</AA_BlackScarab.lifeStages.2.labelPlural>
+  <AA_BlackSpelopede.label>schwarzes Spelopede</AA_BlackSpelopede.label>
+  <AA_BlackSpelopede.labelPlural>schwarze Spelopeden</AA_BlackSpelopede.labelPlural>
+  <AA_BlackSpelopede.lifeStages.0.label>schwarze Spelopedelarve</AA_BlackSpelopede.lifeStages.0.label>
+  <AA_BlackSpelopede.lifeStages.0.labelPlural>schwarze Spelopedenlarven</AA_BlackSpelopede.lifeStages.0.labelPlural>
+  <AA_BlackSpelopede.lifeStages.1.label>schwarzes Spelopede</AA_BlackSpelopede.lifeStages.1.label>
+  <AA_BlackSpelopede.lifeStages.1.labelPlural>schwarze Spelopeden</AA_BlackSpelopede.lifeStages.1.labelPlural>
+  <AA_BlackSpelopede.lifeStages.2.label>schwarzes Spelopede</AA_BlackSpelopede.lifeStages.2.label>
+  <AA_BlackSpelopede.lifeStages.2.labelPlural>schwarze Spelopeden</AA_BlackSpelopede.lifeStages.2.labelPlural>
+  <AA_BlackSpider.label>schwarze Spinne</AA_BlackSpider.label>
+  <AA_BlackSpider.labelPlural>schwarze Spinnen</AA_BlackSpider.labelPlural>
+  <AA_BlackSpider.lifeStages.0.label>schwarze Spinnenlarve</AA_BlackSpider.lifeStages.0.label>
+  <AA_BlackSpider.lifeStages.0.labelPlural>schwarze Spinnenlarven</AA_BlackSpider.lifeStages.0.labelPlural>
+  <AA_BlackSpider.lifeStages.1.label>schwarze Spinne</AA_BlackSpider.lifeStages.1.label>
+  <AA_BlackSpider.lifeStages.1.labelPlural>schwarze Spinnen</AA_BlackSpider.lifeStages.1.labelPlural>
+  <AA_BlackSpider.lifeStages.2.label>schwarze Spinne</AA_BlackSpider.lifeStages.2.label>
+  <AA_BlackSpider.lifeStages.2.labelPlural>schwarze Spinnen</AA_BlackSpider.lifeStages.2.labelPlural>
+</LanguageData>

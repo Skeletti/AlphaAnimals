@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Groundrunner.label>Wegbereiter</AA_Groundrunner.label>
+  <AA_Groundrunner.labelPlural>Wegbereiter</AA_Groundrunner.labelPlural>
+  <AA_Groundrunner.lifeStages.0.label>Wegbereiterjunge</AA_Groundrunner.lifeStages.0.label>
+  <AA_Groundrunner.lifeStages.0.labelPlural>Wegbereiterjunges</AA_Groundrunner.lifeStages.0.labelPlural>
+  <AA_Groundrunner.lifeStages.1.label>junger Wegbereiter</AA_Groundrunner.lifeStages.1.label>
+  <AA_Groundrunner.lifeStages.1.labelPlural>junge Wegbereiter</AA_Groundrunner.lifeStages.1.labelPlural>
+  <AA_Groundrunner.lifeStages.2.label>Wegbereiter</AA_Groundrunner.lifeStages.2.label>
+  <AA_Groundrunner.lifeStages.2.labelPlural>Wegbereiter</AA_Groundrunner.lifeStages.2.labelPlural>
+</LanguageData>

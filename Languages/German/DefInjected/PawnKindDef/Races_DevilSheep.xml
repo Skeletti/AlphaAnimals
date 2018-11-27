@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_DevilSheep.label>Teufelsschaf</AA_DevilSheep.label>
+  <AA_DevilSheep.labelPlural>Teufelsschafe</AA_DevilSheep.labelPlural>
+  <AA_DevilSheep.lifeStages.0.label>Teufelsschaflamm</AA_DevilSheep.lifeStages.0.label>
+  <AA_DevilSheep.lifeStages.0.labelPlural>Teufelsschaflämmer</AA_DevilSheep.lifeStages.0.labelPlural>
+  <AA_DevilSheep.lifeStages.1.label>junges Teufelsschaf</AA_DevilSheep.lifeStages.1.label>
+  <AA_DevilSheep.lifeStages.1.labelPlural>junge Teufelsschafe</AA_DevilSheep.lifeStages.1.labelPlural>
+  <AA_DevilSheep.lifeStages.1.labelMale>Teufelsschafbock</AA_DevilSheep.lifeStages.1.labelMale>
+  <AA_DevilSheep.lifeStages.1.labelMalePlural>Teufelsschafböcke</AA_DevilSheep.lifeStages.1.labelMalePlural>
+  <AA_DevilSheep.lifeStages.2.label>Teufelsschaf</AA_DevilSheep.lifeStages.2.label>
+  <AA_DevilSheep.lifeStages.2.labelPlural>Teufelsschafe</AA_DevilSheep.lifeStages.2.labelPlural>
+  <AA_DevilSheep.lifeStages.2.labelMale>Teufelsschafbock</AA_DevilSheep.lifeStages.2.labelMale>
+  <AA_DevilSheep.lifeStages.2.labelMalePlural>Teufelsschafböcke</AA_DevilSheep.lifeStages.2.labelMalePlural>
+  <AA_DevilSheep.labelMale>Teufelsschafbock</AA_DevilSheep.labelMale>
+  <AA_DevilSheep.labelMalePlural>Teufelsschafböcke</AA_DevilSheep.labelMalePlural>
+</LanguageData>

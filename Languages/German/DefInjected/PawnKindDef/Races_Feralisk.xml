@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Feralisk.label>Feralisk</AA_Feralisk.label>
+  <AA_Feralisk.labelPlural>Feralisken</AA_Feralisk.labelPlural>
+  <AA_Feralisk.lifeStages.0.label>Feraliskbaby</AA_Feralisk.lifeStages.0.label>
+  <AA_Feralisk.lifeStages.0.labelPlural>Feraliskbabies</AA_Feralisk.lifeStages.0.labelPlural>
+  <AA_Feralisk.lifeStages.1.label>junger Feralisk</AA_Feralisk.lifeStages.1.label>
+  <AA_Feralisk.lifeStages.1.labelPlural>junge Feralisken</AA_Feralisk.lifeStages.1.labelPlural>
+  <AA_Feralisk.lifeStages.2.label>Feralisk</AA_Feralisk.lifeStages.2.label>
+  <AA_Feralisk.lifeStages.2.labelPlural>Feralisken</AA_Feralisk.lifeStages.2.labelPlural>
+  <AA_FeraliskClutchMother.label>Feralisk Brutmutter</AA_FeraliskClutchMother.label>
+  <AA_FeraliskClutchMother.labelPlural>Feralisk Brutmütter</AA_FeraliskClutchMother.labelPlural>
+  <AA_FeraliskClutchMother.lifeStages.0.label>Feralisk Brutmutterjunge</AA_FeraliskClutchMother.lifeStages.0.label>
+  <AA_FeraliskClutchMother.lifeStages.0.labelPlural>Feralisk Brutmutterjungen</AA_FeraliskClutchMother.lifeStages.0.labelPlural>
+  <AA_FeraliskClutchMother.lifeStages.1.label>junge Feralisk Brutmutter</AA_FeraliskClutchMother.lifeStages.1.label>
+  <AA_FeraliskClutchMother.lifeStages.1.labelPlural>junge Feralisk Brutmütter</AA_FeraliskClutchMother.lifeStages.1.labelPlural>
+  <AA_FeraliskClutchMother.lifeStages.2.label>Feralisk Brutmutter</AA_FeraliskClutchMother.lifeStages.2.label>
+  <AA_FeraliskClutchMother.lifeStages.2.labelPlural>Feralisk Brutmütter</AA_FeraliskClutchMother.lifeStages.2.labelPlural>
+</LanguageData>

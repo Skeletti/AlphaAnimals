@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_BlackScarab.label>schwarzer Skarabäus</AA_BlackScarab.label>
+  <AA_BlackScarab.description>Dieser große, gentechnisch veränderte Käfer ist Teil des Black Hives, einem künstlichen Ökosystem von Insekten, das zur Bekämpfung mechanoider Invasionen entwickelt wurde. Der Black Hive wurde so konzipiert, dass er viel aggressiver als sonst ist, und mehrere neue Arten wurden geschaffen und dem Schwarm hinzugefügt, um seine Tödlichkeit zu erhöhen. Schwarze Skarabäen sind kaum mehr als Kanonenfutter, das von der Haupthorde der Insektoiden losgelassen wird, um feindliches Feuer auf sich zu lenken. Als eusoziales Wesen kann es sich nicht individuell reproduzieren.</AA_BlackScarab.description>
+  <AA_BlackScarab.tools.0.label>Mandiblen</AA_BlackScarab.tools.0.label>
+  <AA_BlackScarab.tools.1.label>Kopf</AA_BlackScarab.tools.1.label>
+  <AA_BlackScarab_Leather.label>schwarzer Skarabäusleder</AA_BlackScarab_Leather.label>
+  <AA_BlackScarab_Leather.description>schwarzer Skarabäusleder</AA_BlackScarab_Leather.description>
+  <AA_BlackScarab_Leather.stuffProps.stuffAdjective>schwarzer Skarabäusleder</AA_BlackScarab_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_BlackScarab_Corpse.label>Toter schwarzer Skarabäus</AA_BlackScarab_Corpse.label>
+  <AA_BlackScarab_Corpse.description>Die Leiche eines schwarzen Skarabäen.</AA_BlackScarab_Corpse.description>
+  <AA_BlackSpelopede.label>Schwarze Spelopede</AA_BlackSpelopede.label>
+  <AA_BlackSpelopede.description>Ein mittelgroßes gentechnisch verändertes Insektoid von der Größe eines Schafes, das Teil des Black Hives ist, einem künstlichen Ökosystem von Insekten, das zur Bekämpfung mechanoider Invasionen entwickelt wurde. Der Black Hive wurde so konzipiert, dass er viel aggressiver als sonst ist, und mehrere neue Arten wurden geschaffen und dem Schwarm hinzugefügt, um seine Tödlichkeit zu erhöhen. Der Spelopede ist die mittlere Kaste eines Schwarmes, die sich um die meisten Arbeitsaufgaben kümmert und mit ihren grabenden Krallen kämpft. Es ist gefährlich im Kampf, aber langsam auf offener Fläche.</AA_BlackSpelopede.description>
+  <AA_BlackSpelopede.tools.0.label>Kopfkralle</AA_BlackSpelopede.tools.0.label>
+  <AA_BlackSpelopede.tools.1.label>Kopf</AA_BlackSpelopede.tools.1.label>
+  <AA_BlackSpelopede_Leather.label>Schwarze Spelopedenleder</AA_BlackSpelopede_Leather.label>
+  <AA_BlackSpelopede_Leather.description>Schwarze Spelopedenleder</AA_BlackSpelopede_Leather.description>
+  <AA_BlackSpelopede_Leather.stuffProps.stuffAdjective>Schwarze Spelopedenleder</AA_BlackSpelopede_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_BlackSpelopede_Corpse.label>Tote Schwarze Spelopede</AA_BlackSpelopede_Corpse.label>
+  <AA_BlackSpelopede_Corpse.description>Die Leiche eines Schwarzen Spelopeden.</AA_BlackSpelopede_Corpse.description>
+  <AA_BlackSpider.label>Schwarze Spinne</AA_BlackSpider.label>
+  <AA_BlackSpider.description>Nicht wirklich eine Spinne. Die schwarze Spinne ist ein gentechnisch veränderter Riese von der Größe eines Bären. Diese Kreatur ist Teil des Black Hives, einem künstlichen Ökosystem von Insektoiden, das zur Bekämpfung mechanoider Invasionen entwickelt wurde. Der Black Hive wurde so konzipiert, dass er viel aggressiver als sonst ist, und mehrere neue Arten wurden geschaffen und dem Schwarm hinzugefügt, um seine Tödlichkeit zu erhöhen. Seine dicke chitinöse Rüstung ist für schwere Arbeit und Kampf ausgelegt und macht es schwer zu töten, während seine langen Reißklingen ihn aus nächster Nähe tödlich machen.</AA_BlackSpider.description>
+  <AA_BlackSpider.tools.0.label>Kopfklaue</AA_BlackSpider.tools.0.label>
+  <AA_BlackSpider.tools.1.label>Kopf</AA_BlackSpider.tools.1.label>
+  <AA_BlackSpider_Leather.label>Schwarze Spinnenleder</AA_BlackSpider_Leather.label>
+  <AA_BlackSpider_Leather.description>Schwarze Spinnenleder</AA_BlackSpider_Leather.description>
+  <AA_BlackSpider_Leather.stuffProps.stuffAdjective>Schwarze Spinnenleder</AA_BlackSpider_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_BlackSpider_Corpse.label>Tote Schwarze Spinne</AA_BlackSpider_Corpse.label>
+  <AA_BlackSpider_Corpse.description>Die Leiche einer Schwarze Spinne.</AA_BlackSpider_Corpse.description>
+</LanguageData>

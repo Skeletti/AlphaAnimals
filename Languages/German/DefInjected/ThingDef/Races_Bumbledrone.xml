@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Bumbledrone.label>Hummeldrohne</AA_Bumbledrone.label>
+  <AA_Bumbledrone.description>Die Hummeldrohne ist ein mutiertes wespenartiges Wesen, wahrscheinlich das Ergebnis einer alten Gentechnik, die vor langer Zeit in die Wildnis entlassen wurde. Allein ist eine Hummeldrohne nicht sehr mächtig, lästiger als eine Bedrohung, aber wenn sie in großer Zahl bedroht wird, tragen ihre Stacheln ein sehr mächtiges Gift, das selbst den größten Feind besiegen könnte. "Glücklicherweise", da sie nicht fleischfressend sind, benutzen sie dies zur Abschreckung und nicht als Jagdmethode.</AA_Bumbledrone.description>
+  <AA_Bumbledrone.tools.1.label>Klauen</AA_Bumbledrone.tools.1.label>
+  <AA_Bumbledrone_Leather.label>Hummeldrohnenleder</AA_Bumbledrone_Leather.label>
+  <AA_Bumbledrone_Leather.description>Hummeldrohnenleder</AA_Bumbledrone_Leather.description>
+  <AA_Bumbledrone_Leather.stuffProps.stuffAdjective>Hummeldrohnenleder</AA_Bumbledrone_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_Bumbledrone_Corpse.label>Tote Hummeldrohne</AA_Bumbledrone_Corpse.label>
+  <AA_Bumbledrone_Corpse.description>Die Leiche einer Hummeldrohne.</AA_Bumbledrone_Corpse.description>
+  <AA_BumbledroneQueen.label>Hummeldrohnen Königin</AA_BumbledroneQueen.label>
+  <AA_BumbledroneQueen.description>Die Hummeldrohne ist ein mutiertes wespenartiges Wesen, wahrscheinlich das Ergebnis einer alten Gentechnik, die vor langer Zeit in die Wildnis entlassen wurde. Allein ist eine Hummeldrohne nicht sehr mächtig, lästiger als eine Bedrohung, aber wenn sie in großer Zahl bedroht wird, tragen ihre Stacheln ein sehr mächtiges Gift, das selbst den größten Feind besiegen könnte. "Glücklicherweise", da sie nicht fleischfressend sind, benutzen sie dies zur Abschreckung und nicht als Jagdmethode.
+
+Diese spezielle Hummeldrone scheint eine "Königin" zu sein, so genannt, weil sie Eier abzulegen scheint, aus denen andere Hummeldrohnen schlüpfen können.  Sie tendiert dazu, dies besonders zu tun, sobald sie sich in einer Umgebung niedergelassen hat, die sie für sicher hält, so dass es ein wirklich nützliches wäre, sie zu zähmen.</AA_BumbledroneQueen.description>
+  <AA_BumbledroneQueen.tools.1.label>Klauen</AA_BumbledroneQueen.tools.1.label>
+  <AA_BumbledroneQueen_Leather.label>Hummeldrohnen Königinenleder</AA_BumbledroneQueen_Leather.label>
+  <AA_BumbledroneQueen_Leather.description>Hummeldrohnen Königinenleder</AA_BumbledroneQueen_Leather.description>
+  <AA_BumbledroneQueen_Leather.stuffProps.stuffAdjective>Hummeldrohnen Königinenleder</AA_BumbledroneQueen_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_BumbledroneQueen_Corpse.label>Tote Hummeldrohnen Königin</AA_BumbledroneQueen_Corpse.label>
+  <AA_BumbledroneQueen_Corpse.description>Die Leiche einer Hummeldrohnen Königin.</AA_BumbledroneQueen_Corpse.description>
+</LanguageData>

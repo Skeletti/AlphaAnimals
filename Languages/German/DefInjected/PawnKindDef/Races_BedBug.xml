@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_BedBug.label>Wanze</AA_BedBug.label>
+  <AA_BedBug.labelPlural>Wanzen</AA_BedBug.labelPlural>
+  <AA_BedBug.lifeStages.0.label>Wanzenlarve</AA_BedBug.lifeStages.0.label>
+  <AA_BedBug.lifeStages.0.labelPlural>Wanzenlarven</AA_BedBug.lifeStages.0.labelPlural>
+  <AA_BedBug.lifeStages.1.label>Wanze</AA_BedBug.lifeStages.1.label>
+  <AA_BedBug.lifeStages.1.labelPlural>Wanzen</AA_BedBug.lifeStages.1.labelPlural>
+  <AA_BedBug.lifeStages.2.label>Wanze</AA_BedBug.lifeStages.2.label>
+  <AA_BedBug.lifeStages.2.labelPlural>Wanzen</AA_BedBug.lifeStages.2.labelPlural>
+</LanguageData>

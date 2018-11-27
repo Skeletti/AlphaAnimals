@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_ToxicSting.label>Giftstachel</AA_ToxicSting.label>
+  <AA_ToxicSting.deathMessage>{0} wurde zu Tode gestochen.</AA_ToxicSting.deathMessage>
+  <AA_VeryToxicSting.label>sehr giftiger Stachel</AA_VeryToxicSting.label>
+  <AA_VeryToxicSting.deathMessage>{0} wurde zu Tode gestochen.</AA_VeryToxicSting.deathMessage>
+  <AA_ParalysingBite.label>lähmender Biss</AA_ParalysingBite.label>
+  <AA_ParalysingBite.deathMessage>{0} wurde zu Tode gebissen.</AA_ParalysingBite.deathMessage>
+  <AA_SiegeBlunt.label>zerquetschen</AA_SiegeBlunt.label>
+  <AA_SiegeBlunt.deathMessage>{0} wurde zu Tode gequetscht.</AA_SiegeBlunt.deathMessage>
+  <AA_PermanentBurn.label>permanente Verbrennung</AA_PermanentBurn.label>
+  <AA_PermanentBurn.deathMessage>{0} wurde zu Tode verbrannt.</AA_PermanentBurn.deathMessage>
+  <AA_BoulderScratch.label>Kratzer</AA_BoulderScratch.label>
+  <AA_BoulderScratch.deathMessage>{0} wurde zu Tode gequetscht.</AA_BoulderScratch.deathMessage>
+  <AA_LockJawDamage.label>Kieferbiss</AA_LockJawDamage.label>
+  <AA_LockJawDamage.deathMessage>{0} wurde zu Tode gebissen.</AA_LockJawDamage.deathMessage>
+  <AA_Pierce.label>durchstechen</AA_Pierce.label>
+  <AA_Pierce.deathMessage>{0} wurde zu Tode durchstochen.</AA_Pierce.deathMessage>
+  <BodyCrush.label>zerquetschen</BodyCrush.label>
+  <BodyCrush.deathMessage>{0} wurde zu Tode gequetscht.</BodyCrush.deathMessage>
+</LanguageData>

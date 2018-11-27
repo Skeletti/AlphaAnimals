@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Frostmite.label>Frostmilbe</AA_Frostmite.label>
+  <AA_Frostmite.labelPlural>Frostmilben</AA_Frostmite.labelPlural>
+  <AA_Frostmite.lifeStages.0.label>Frostmilbenlarve</AA_Frostmite.lifeStages.0.label>
+  <AA_Frostmite.lifeStages.0.labelPlural>Frostmilbenlarven</AA_Frostmite.lifeStages.0.labelPlural>
+  <AA_Frostmite.lifeStages.1.label>Frostmilbe</AA_Frostmite.lifeStages.1.label>
+  <AA_Frostmite.lifeStages.1.labelPlural>Frostmilben</AA_Frostmite.lifeStages.1.labelPlural>
+  <AA_Frostmite.lifeStages.2.label>Frostmilbe</AA_Frostmite.lifeStages.2.label>
+  <AA_Frostmite.lifeStages.2.labelPlural>Frostmilben</AA_Frostmite.lifeStages.2.labelPlural>
+</LanguageData>

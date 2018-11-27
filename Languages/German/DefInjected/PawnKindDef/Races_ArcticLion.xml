@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_ArcticLion.label>Arktischer Löwe</AA_ArcticLion.label>
+  <AA_ArcticLion.labelPlural>Arktischer Löwen</AA_ArcticLion.labelPlural>
+  <AA_ArcticLion.lifeStages.0.label>Arktischer Löwenjunges</AA_ArcticLion.lifeStages.0.label>
+  <AA_ArcticLion.lifeStages.0.labelPlural>Arktische Löwenjungen</AA_ArcticLion.lifeStages.0.labelPlural>
+  <AA_ArcticLion.lifeStages.1.label>junger Arktischer Löwe</AA_ArcticLion.lifeStages.1.label>
+  <AA_ArcticLion.lifeStages.1.labelPlural>junge Arktische Löwen</AA_ArcticLion.lifeStages.1.labelPlural>
+  <AA_ArcticLion.lifeStages.1.labelFemale>junge Arktische Löwin</AA_ArcticLion.lifeStages.1.labelFemale>
+  <AA_ArcticLion.lifeStages.1.labelFemalePlural>junge Arktische Löwinnen</AA_ArcticLion.lifeStages.1.labelFemalePlural>
+  <AA_ArcticLion.lifeStages.2.label>Arktischer Löwe</AA_ArcticLion.lifeStages.2.label>
+  <AA_ArcticLion.lifeStages.2.labelPlural>Arktische Löwen</AA_ArcticLion.lifeStages.2.labelPlural>
+  <AA_ArcticLion.lifeStages.2.labelFemale>Arktische Löwin</AA_ArcticLion.lifeStages.2.labelFemale>
+  <AA_ArcticLion.lifeStages.2.labelFemalePlural>Arktische Löwinnen</AA_ArcticLion.lifeStages.2.labelFemalePlural>
+  <AA_ArcticLion.labelFemale>Arktische Löwin</AA_ArcticLion.labelFemale>
+  <AA_ArcticLion.labelFemalePlural>Arktische Löwinnen</AA_ArcticLion.labelFemalePlural>
+</LanguageData>

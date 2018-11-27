@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- RaptorShrimp -->
+  <AA_SnakeWithTwoLimbs.label>Schlange mit zwei Gliedmaßen</AA_SnakeWithTwoLimbs.label>
+  <AA_SnakeWithTwoLimbs.corePart.parts.4.customLabel>linke Lunge</AA_SnakeWithTwoLimbs.corePart.parts.4.customLabel>
+  <AA_SnakeWithTwoLimbs.corePart.parts.5.customLabel>rechte Lunge</AA_SnakeWithTwoLimbs.corePart.parts.5.customLabel>
+  <AA_SnakeWithTwoLimbs.corePart.parts.6.customLabel>linke Niere</AA_SnakeWithTwoLimbs.corePart.parts.6.customLabel>
+  <AA_SnakeWithTwoLimbs.corePart.parts.7.customLabel>rechte Niere</AA_SnakeWithTwoLimbs.corePart.parts.7.customLabel>
+  <AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.1.customLabel>linkes Auge</AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.1.customLabel>
+  <AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.2.customLabel>rechtes Auge</AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.2.customLabel>
+  <AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.3.customLabel>linkes Ohr</AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.3.customLabel>
+  <AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.4.customLabel>rechtes Ohr</AA_SnakeWithTwoLimbs.corePart.parts.9.parts.0.parts.4.customLabel>
+</LanguageData>

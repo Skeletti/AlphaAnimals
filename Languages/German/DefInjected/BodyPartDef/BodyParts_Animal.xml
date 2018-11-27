@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Jellyfish parts -->
+  <AA_JellyfishMainBody.label>Haube</AA_JellyfishMainBody.label>
+  <AA_HydrogenSac.label>Wasserstoffsack</AA_HydrogenSac.label>
+  <AA_JellyfishTentacle.label>Tentakel</AA_JellyfishTentacle.label>
+  <!-- Scorpion parts -->
+  <AA_Thorax.label>Brustkorb</AA_Thorax.label>
+  <AA_InsectTail.label>Schwanz</AA_InsectTail.label>
+  <AA_InsectMouth.label>Mund</AA_InsectMouth.label>
+  <AA_InsectSting.label>Stachel</AA_InsectSting.label>
+  <AA_LeftPincer.label>linke Zange</AA_LeftPincer.label>
+  <AA_RightPincer.label>rechte Zange</AA_RightPincer.label>
+  <!-- Lockjaw parts -->
+  <AA_CrocodileJaw.label>riesiger Kiefer</AA_CrocodileJaw.label>
+  <!-- Mammoth Worm and Megalouse parts -->
+  <AA_FirstWormSegment.label>erstes Körpersegment</AA_FirstWormSegment.label>
+  <AA_SecondWormSegment.label>zweites Körpersegment</AA_SecondWormSegment.label>
+  <AA_ThirdWormSegment.label>drittes Körpersegment</AA_ThirdWormSegment.label>
+  <AA_FourthWormSegment.label>viertes Körpersegment</AA_FourthWormSegment.label>
+  <!-- NeedlePost parts -->
+  <AA_SentientPlantBody.label>empfindungsfähiger Pflanzenkörper</AA_SentientPlantBody.label>
+  <AA_SentientPlantHead.label>empfindungsfähiger Pflanzenkopf</AA_SentientPlantHead.label>
+  <AA_SentientPlantMouth.label>empfindungsfähiger Pflanzenmund</AA_SentientPlantMouth.label>
+  <!-- Raptor Shrimp parts -->
+  <AA_LeftCreatureLimb.label>linkes Glied</AA_LeftCreatureLimb.label>
+  <AA_RightCreatureLimb.label>rechtes Glied</AA_RightCreatureLimb.label>
+  <AA_LeftCreatureBlade.label>linke Klinge</AA_LeftCreatureBlade.label>
+  <AA_RightCreatureBlade.label>rechte Klinge</AA_RightCreatureBlade.label>
+  <!-- TetraSlug parts -->
+  <AA_Carapace.label>Metallpanzer</AA_Carapace.label>
+  <AA_SlugBody.label>Schneckenkörper</AA_SlugBody.label>
+  <!-- Bumbledrone parts -->
+  <AA_Abdomen.label>Bauchraum</AA_Abdomen.label>
+  <AA_InsectWing.label>Flügel</AA_InsectWing.label>
+  <AA_SmallInsectLeg.label>kleines Bein</AA_SmallInsectLeg.label>
+</LanguageData>

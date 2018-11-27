@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- AA leathers -->
+  <AA_Leather_Aerofleet.label>Aerofleetpelz</AA_Leather_Aerofleet.label>
+  <AA_Leather_Aerofleet.description>Eine flauschige, weiche Schicht aus geschmeidigem Material. Nicht so widerstandsfähig wie andere Lederarten, aber ein ordentlicher Isolator.</AA_Leather_Aerofleet.description>
+  <AA_Leather_Aerofleet.stuffProps.stuffAdjective>Aerofleetpelz</AA_Leather_Aerofleet.stuffProps.stuffAdjective>
+  <!--[Duplicated] <AA_ArcticLion_Leather.label>arctic lion fur</AA_ArcticLion_Leather.label>-->
+  <!--[Duplicated] <AA_ArcticLion_Leather.description>White thick leather covered in a long, rugged mat of fur. Harvested from an arctic lion. This thick skin insulates and protects really well.</AA_ArcticLion_Leather.description>-->
+  <!--[Duplicated] <AA_ArcticLion_Leather.stuffProps.stuffAdjective>arctic lion fur</AA_ArcticLion_Leather.stuffProps.stuffAdjective>-->
+  <Leather_Chitin.label>Insektenchitin</Leather_Chitin.label>
+  <Leather_Chitin.description>Harte, überlappende Schuppen von insektoidem Chitin. Es ist außergewöhnlich langlebig im Kampf, bietet aber wenig Wetterschutz.</Leather_Chitin.description>
+  <Leather_Chitin.stuffProps.stuffAdjective>Insektenchitin</Leather_Chitin.stuffProps.stuffAdjective>
+  <Leather_RaptorPlates.label>Raptogarnelenplatten</Leather_RaptorPlates.label>
+  <Leather_RaptorPlates.description>Überlappende Platten aus gehärtetem Chitin. Wirklich langlebig im Kampf, bietet aber wenig Schutz vor dem Wetter.</Leather_RaptorPlates.description>
+  <Leather_RaptorPlates.stuffProps.stuffAdjective>Raptogarnelenplatten</Leather_RaptorPlates.stuffProps.stuffAdjective>
+  <Leather_Cactus.label>lebende Kakusschale</Leather_Cactus.label>
+  <Leather_Cactus.description>Dieses seltsame Material scheint zum Teil tierische Haut, zum Teil lebendes Pflanzengewebe zu sein. Es fängt kaltes Wasser im Inneren auf und fungiert als unglaublich guter Wärmedämmstoff für heiße Klimazonen.</Leather_Cactus.description>
+  <Leather_Cactus.stuffProps.stuffAdjective>lebende Kakusschale</Leather_Cactus.stuffProps.stuffAdjective>
+  <Leather_BlackChitin.label>schwarzes Insektenchitin</Leather_BlackChitin.label>
+  <Leather_BlackChitin.description>Harte, überlappende Schuppen von insektoidem Chitin. Es ist außergewöhnlich langlebig im Kampf, bietet aber wenig Wetterschutz.</Leather_BlackChitin.description>
+  <Leather_BlackChitin.stuffProps.stuffAdjective>schwarzes Insektenchitin</Leather_BlackChitin.stuffProps.stuffAdjective>
+  <Leather_Gallatross.label>Galatrossleder</Leather_Gallatross.label>
+  <Leather_Gallatross.description>Diese pelzige Haut ist von außergewöhnlicher Qualität. Wahrscheinlich eines der bestmöglichen Leder im Rim.</Leather_Gallatross.description>
+  <Leather_Gallatross.stuffProps.stuffAdjective>Galatrossleder</Leather_Gallatross.stuffProps.stuffAdjective>
+</LanguageData>

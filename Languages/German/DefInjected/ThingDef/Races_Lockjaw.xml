@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Lockjaw.label>Lockjaw</AA_Lockjaw.label>
+  <AA_Lockjaw.description>Ein sehr großes Tier, das in den tropischen Regionen dieses Planeten heimisch ist. Sie werden sowohl wegen ihrer unglaublich starken Bisskraft als auch wegen der von ihnen übertragenen Krankheit Lockjaws genannt, die ihre Opfer mit einer leichten Gesichtslähmung heimsucht, die das Essen extrem unangenehm macht.
+
+Obwohl der Lockjaw eine Guillotine als Mundwerkzeug hat, scheint er kein übermäßig aggressives Wesen zu sein; er zieht es vor, eher die lokale Tierwelt als die lokale Bevölkerung zu erbeuten.</AA_Lockjaw.description>
+  <AA_Lockjaw.tools.1.label>Kopf</AA_Lockjaw.tools.1.label>
+  <AA_Lockjaw_Leather.label>Lockjawleder</AA_Lockjaw_Leather.label>
+  <AA_Lockjaw_Leather.description>Lockjawleder</AA_Lockjaw_Leather.description>
+  <AA_Lockjaw_Leather.stuffProps.stuffAdjective>Lockjawleder</AA_Lockjaw_Leather.stuffProps.stuffAdjective>
+  <AA_Lockjaw_Meat.label>Lockjawfleisch</AA_Lockjaw_Meat.label>
+  <AA_Lockjaw_Meat.description>Lockjawfleisch</AA_Lockjaw_Meat.description>
+  <AA_Lockjaw_Corpse.label>Toter Lockjaw</AA_Lockjaw_Corpse.label>
+  <AA_Lockjaw_Corpse.description>Die Leiche eines Lockjaws.</AA_Lockjaw_Corpse.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Dunealisk.label>Dunealisk</AA_Dunealisk.label>
+  <AA_Dunealisk.description>Jemand dachte einmal, dass die Entwicklung von überdimensionalen Spinnen für die Nanofaser-Fadenproduktion eine gute Idee wäre. Ihr Heimatplanet ist nun auf eine Marmorwelt reduziert, eine Welt, die vollständig durch Atomfeuer gereinigt wurde. Der Dunealisk ist eine mutierte Variante des Feralisken, die sich an extrem heiße Klimazonen angepasst haben.
+
+Dunealisken greifen an, indem sie Spinnennetze auf ihre Beute werfen.  Diese riesigen Netze betäuben und verbrennen jeden, den sie berühren, und ermöglichen es dem Dunealisk, sich zu nähern und den Kampf mit ihren schrecklichen, mit Gift geschnürten Reißzähnen zu beenden.</AA_Dunealisk.description>
+  <AA_Dunealisk.tools.0.label>linkes Vorderbein</AA_Dunealisk.tools.0.label>
+  <AA_Dunealisk.tools.1.label>rechtes Vorderbein</AA_Dunealisk.tools.1.label>
+  <AA_Dunealisk.tools.3.label>Kopf</AA_Dunealisk.tools.3.label>
+  <AA_Dunealisk_Leather.label>Dunealiskleder</AA_Dunealisk_Leather.label>
+  <AA_Dunealisk_Leather.description>Dunealiskleder</AA_Dunealisk_Leather.description>
+  <AA_Dunealisk_Leather.stuffProps.stuffAdjective>Dunealiskleder</AA_Dunealisk_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_Dunealisk_Corpse.label>Toter Dunealisk</AA_Dunealisk_Corpse.label>
+  <AA_Dunealisk_Corpse.description>Die Leiche einer Dunealisken.</AA_Dunealisk_Corpse.description>
+  <AA_DunealiskClutchMother.label>Dunealisk Brutmutter</AA_DunealiskClutchMother.label>
+  <AA_DunealiskClutchMother.description>Jemand dachte einmal, dass die Entwicklung von überdimensionalen Spinnen für die Nanofaser-Fadenproduktion eine gute Idee wäre. Ihr Heimatplanet ist nun auf eine Marmorwelt reduziert, eine Welt, die vollständig durch Atomfeuer gereinigt wurde. Der Dunealisk ist eine mutierte Variante des Feralisken, die sich an extrem heiße Klimazonen angepasst haben.
+
+Dunealisken greifen an, indem sie Spinnennetze auf ihre Beute werfen.  Diese riesigen Netze betäuben und verbrennen jeden, den sie berühren, und ermöglichen es dem Dunealisk, sich zu nähern und den Kampf mit ihren schrecklichen, mit Gift geschnürten Reißzähnen zu beenden.
+
+Diese Dunealisk scheint viel größer zu sein als üblich und trägt ein Gelege von Eiern auf dem Rücken.  Das klingt nach einem Rezept für eine Katastrophe, wenn man nicht schnell handelt.</AA_DunealiskClutchMother.description>
+  <AA_DunealiskClutchMother.tools.0.label>linkes Vorderbein</AA_DunealiskClutchMother.tools.0.label>
+  <AA_DunealiskClutchMother.tools.1.label>rechtes Vorderbein</AA_DunealiskClutchMother.tools.1.label>
+  <AA_DunealiskClutchMother.tools.3.label>Kopf</AA_DunealiskClutchMother.tools.3.label>
+  <AA_DunealiskClutchMother_Leather.label>Dunealisk Brutmutterleder</AA_DunealiskClutchMother_Leather.label>
+  <AA_DunealiskClutchMother_Leather.description>Dunealisk Brutmutterleder</AA_DunealiskClutchMother_Leather.description>
+  <AA_DunealiskClutchMother_Leather.stuffProps.stuffAdjective>Dunealisk Brutmutterleder</AA_DunealiskClutchMother_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_DunealiskClutchMother_Corpse.label>Tote Dunealisk Brutmutter</AA_DunealiskClutchMother_Corpse.label>
+  <AA_DunealiskClutchMother_Corpse.description>Die Leiche einer Dunealisken Brutmutter.</AA_DunealiskClutchMother_Corpse.description>
+</LanguageData>

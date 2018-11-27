@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_DevilSheep.label>Teufelsschaf</AA_DevilSheep.label>
+  <AA_DevilSheep.description>Ein gentechnisch verändertes Schaf, das in der Lage ist, extrem starke und wertvolle rote Wolle zu produzieren. Einige sehen ein einfaches Nutztier, andere eine dämonische Wesensform der Korruption. Hören Sie nicht auf sein Flüstern. Wie Teufelspilze brauchen diese Schafe einige Zeit, um den Stoff wachsen zu lassen, aber sie können leicht gezüchtet werden, um die Produktion nach Bedarf zu steigern.</AA_DevilSheep.description>
+  <AA_DevilSheep.tools.0.label>linker Huf</AA_DevilSheep.tools.0.label>
+  <AA_DevilSheep.tools.1.label>Rechter Hug</AA_DevilSheep.tools.1.label>
+  <AA_DevilSheep.tools.3.label>Kopf</AA_DevilSheep.tools.3.label>
+  <AA_DevilSheep_Leather.label>Teufelsschafleder</AA_DevilSheep_Leather.label>
+  <AA_DevilSheep_Leather.description>Teufelsschafleder</AA_DevilSheep_Leather.description>
+  <AA_DevilSheep_Leather.stuffProps.stuffAdjective>Teufelsschafleder</AA_DevilSheep_Leather.stuffProps.stuffAdjective>
+  <AA_DevilSheep_Meat.label>Teufelsschaffleisch</AA_DevilSheep_Meat.label>
+  <AA_DevilSheep_Meat.description>Teufelsschaffleisch</AA_DevilSheep_Meat.description>
+  <AA_DevilSheep_Corpse.label>Totes Teufelsschaf</AA_DevilSheep_Corpse.label>
+  <AA_DevilSheep_Corpse.description>Die Leiche eines Teufelsschafes.</AA_DevilSheep_Corpse.description>
+</LanguageData>

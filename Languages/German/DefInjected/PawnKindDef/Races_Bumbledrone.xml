@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Bumbledrone.label>Hummeldrohne</AA_Bumbledrone.label>
+  <AA_Bumbledrone.labelPlural>Hummeldrohnen</AA_Bumbledrone.labelPlural>
+  <AA_Bumbledrone.lifeStages.0.label>Hummeldrohnenlarve</AA_Bumbledrone.lifeStages.0.label>
+  <AA_Bumbledrone.lifeStages.0.labelPlural>Hummeldrohnenlarven</AA_Bumbledrone.lifeStages.0.labelPlural>
+  <AA_Bumbledrone.lifeStages.1.label>Hummeldrohne</AA_Bumbledrone.lifeStages.1.label>
+  <AA_Bumbledrone.lifeStages.1.labelPlural>Hummeldrohnen</AA_Bumbledrone.lifeStages.1.labelPlural>
+  <AA_Bumbledrone.lifeStages.2.label>Hummeldrohne</AA_Bumbledrone.lifeStages.2.label>
+  <AA_Bumbledrone.lifeStages.2.labelPlural>Hummeldrohnen</AA_Bumbledrone.lifeStages.2.labelPlural>
+  <AA_BumbledroneQueen.label>Hummeldrohnen Königin</AA_BumbledroneQueen.label>
+  <AA_BumbledroneQueen.labelPlural>Hummeldrohnen Königinnen</AA_BumbledroneQueen.labelPlural>
+  <AA_BumbledroneQueen.lifeStages.0.label>Hummeldrohnen Königinnenlarve</AA_BumbledroneQueen.lifeStages.0.label>
+  <AA_BumbledroneQueen.lifeStages.0.labelPlural>Hummeldrohnen Königinnenlarven</AA_BumbledroneQueen.lifeStages.0.labelPlural>
+  <AA_BumbledroneQueen.lifeStages.1.label>Hummeldrohnen Königin</AA_BumbledroneQueen.lifeStages.1.label>
+  <AA_BumbledroneQueen.lifeStages.1.labelPlural>Hummeldrohnen Königinnen</AA_BumbledroneQueen.lifeStages.1.labelPlural>
+  <AA_BumbledroneQueen.lifeStages.2.label>Hummeldrohnen Königin</AA_BumbledroneQueen.lifeStages.2.label>
+  <AA_BumbledroneQueen.lifeStages.2.labelPlural>Hummeldrohnen Königinnen</AA_BumbledroneQueen.lifeStages.2.labelPlural>
+</LanguageData>

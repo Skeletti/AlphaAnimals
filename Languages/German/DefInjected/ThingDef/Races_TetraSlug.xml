@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_TetraSlug.label>Tetra-Schnecke</AA_TetraSlug.label>
+  <AA_TetraSlug.description>Diese massiven Schnecken sind ein häufiger Anblick unter den von der Glitterwelt kontrollierten Gebieten; sie werden als verherrlichte Kraftwerke betrachtet. Darüber hinaus werden sie als mobile Energiequelle für Forschungsexpeditionen der Glitterwelt eingesetzt. Es ist selten, einen ohne die legendären Energiekerne zu sehen, die aus dem Rücken ragen, da ihre einzigartige körpereigene chemische Zusammensetzung in der Lage ist, Energie abzugeben, die alle bekannten natürlichen Quellen weit übertrifft. Daher werden sie von jeder sich technologisch entwickelnden Zivilisation in der gesamten Galaxie sehr geschätzt.
+
+Während sie ein sanfter Riese ist, die lieber wegkriechen würde, anstatt zu kämpfen, wurde sie mit einem Plastahlpanzer, Vierkerner, die als Tesla-Kanonen fungieren können, und einer taktischen KI, die in das Gehirn eingeführt wird, ausgestattet, die die Kontrolle übernimmt und nicht zögert, ihre gesamte Bewaffnung einzusetzen, um jede wahrgenommene Bedrohung in der Nähe auszumerzen.
+
+Richtig ausgestattete Tetra-Schnecken laden die Batterien in ihrer Nähe langsam auf.</AA_TetraSlug.description>
+  <AA_TetraSlug.tools.0.label>Körper</AA_TetraSlug.tools.0.label>
+  <!-- Leather Amount: 0 -->
+  <AA_TetraSlug_Meat.label>Tetra-Schneckenfleisch</AA_TetraSlug_Meat.label>
+  <AA_TetraSlug_Meat.description>Tetra-Schneckenfleisch</AA_TetraSlug_Meat.description>
+  <AA_TetraSlug_Corpse.label>Tote Tetra-Schnecke</AA_TetraSlug_Corpse.label>
+  <AA_TetraSlug_Corpse.description>Die Leiche einer Tetra-Schnecke.</AA_TetraSlug_Corpse.description>
+</LanguageData>

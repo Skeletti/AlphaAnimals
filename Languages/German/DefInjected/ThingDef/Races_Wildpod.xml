@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Wildpod.label>Wildpod</AA_Wildpod.label>
+  <AA_Wildpod.description>Diese schwerfällige Masse aus scheinbar zersetzender Pflanzenmasse ist ein Wildpod, eine empfindungsfähige Pilzkreatur, die auf einem von Dschungel befallenen Planeten im Rim heimisch ist. Der Wildpod ist fast immun gegen Schüsse, wobei die Kugeln einfach in seine Masse absorbiert werden, ohne viel Schaden anzurichten, aber sehr schwach gegen Feuer. Interessanterweise vermehrt es sich asexuell, indem es alle paar Wochen Sporenhaufen freisetzt, so dass seine Kinder völlig unabhängig von ihm sind, ohne Konzept einer Elternschaft.
+
+Obwohl riskant, kann der Wildpod für angemessene Mengen an essbaren Pilzen gejagt oder gezüchtet werden.</AA_Wildpod.description>
+  <AA_Wildpod.tools.0.label>linke Pfote</AA_Wildpod.tools.0.label>
+  <AA_Wildpod.tools.1.label>rechte Pfote</AA_Wildpod.tools.1.label>
+  <AA_Wildpod.tools.3.label>Kopf</AA_Wildpod.tools.3.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AA_Wildpod_Corpse.label>Toter Wildpod</AA_Wildpod_Corpse.label>
+  <AA_Wildpod_Corpse.description>Die Leiche eines Wildpods.</AA_Wildpod_Corpse.description>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_MammothWorm.label>Mammutwurm</AA_MammothWorm.label>
+  <AA_MammothWorm.description>Ein extrem großer, gentechnisch veränderter Wurm. Trotz seiner unglaublich einschüchternden Größe und seines Arsenals sind diese riesigen Kreaturen ziemlich friedlich. Es war einst Teil der Arbeiter-Kaste eines künstlichen Ökosystems von Insektoiden, das zur Bekämpfung von mechanoiden Invasionen entwickelt wurde. Er trug und bewegte Dinge, die seine kleineren Verwandten nicht konnten.
+
+Während es im Allgemeinen friedlich ist, wird es, wenn es provoziert wird, zu einer schrecklichen Waffe, die mit denen der mechanoiden Raupen konkurrieren kann.
+
+Ursprünglich wurde der Mammutwurm speziell als lebende Belagerungsmaschine gezüchtet, um mechanoide Strukturen zu zerstören, und als solcher kann er äußerst effektiv sein.</AA_MammothWorm.description>
+  <AA_MammothWorm.tools.0.label>Körper</AA_MammothWorm.tools.0.label>
+  <AA_MammothWorm_Leather.label>Mammutwurmleder</AA_MammothWorm_Leather.label>
+  <AA_MammothWorm_Leather.description>Mammutwurmleder</AA_MammothWorm_Leather.description>
+  <AA_MammothWorm_Leather.stuffProps.stuffAdjective>Mammutwurmleder</AA_MammothWorm_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Megaspider -->
+  <AA_MammothWorm_Corpse.label>Toter Mammutwurm</AA_MammothWorm_Corpse.label>
+  <AA_MammothWorm_Corpse.description>Die Leiche eines Mammutwurms.</AA_MammothWorm_Corpse.description>
+</LanguageData>

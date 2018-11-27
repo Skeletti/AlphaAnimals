@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- TerramorphWorm -->
+  <AA_WormWithArmorAndTusks.label>Wurm mit Rüstung und Stoßzähnen</AA_WormWithArmorAndTusks.label>
+  <AA_WormWithArmorAndTusks.corePart.parts.1.parts.0.customLabel>linke Lunge</AA_WormWithArmorAndTusks.corePart.parts.1.parts.0.customLabel>
+  <AA_WormWithArmorAndTusks.corePart.parts.1.parts.1.customLabel>rechte Lunge</AA_WormWithArmorAndTusks.corePart.parts.1.parts.1.customLabel>
+  <AA_WormWithArmorAndTusks.corePart.parts.3.parts.0.customLabel>linke Niere</AA_WormWithArmorAndTusks.corePart.parts.3.parts.0.customLabel>
+  <AA_WormWithArmorAndTusks.corePart.parts.3.parts.1.customLabel>rechte Niere</AA_WormWithArmorAndTusks.corePart.parts.3.parts.1.customLabel>
+  <AA_WormWithArmorAndTusks.corePart.parts.4.parts.1.customLabel>linkes Auge</AA_WormWithArmorAndTusks.corePart.parts.4.parts.1.customLabel>
+  <AA_WormWithArmorAndTusks.corePart.parts.4.parts.2.customLabel>rechtes Auge</AA_WormWithArmorAndTusks.corePart.parts.4.parts.2.customLabel>
+  <AA_WormWithArmorAndTusks.corePart.parts.4.parts.4.parts.0.customLabel>linker Stoßzahn</AA_WormWithArmorAndTusks.corePart.parts.4.parts.4.parts.0.customLabel>
+  <AA_WormWithArmorAndTusks.corePart.parts.4.parts.4.parts.1.customLabel>rechter Stoßzahn</AA_WormWithArmorAndTusks.corePart.parts.4.parts.4.parts.1.customLabel>
+</LanguageData>

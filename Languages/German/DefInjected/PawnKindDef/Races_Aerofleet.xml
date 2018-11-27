@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Aerofleet.label>Aerofleet</AA_Aerofleet.label>
+  <AA_Aerofleet.labelPlural>Aerofleets</AA_Aerofleet.labelPlural>
+  <AA_Aerofleet.lifeStages.0.label>Aerofleetbaby</AA_Aerofleet.lifeStages.0.label>
+  <AA_Aerofleet.lifeStages.0.labelPlural>Aerofleetbabies</AA_Aerofleet.lifeStages.0.labelPlural>
+  <AA_Aerofleet.lifeStages.1.label>Aerofleet</AA_Aerofleet.lifeStages.1.label>
+  <AA_Aerofleet.lifeStages.1.labelPlural>Aerofleets</AA_Aerofleet.lifeStages.1.labelPlural>
+  <AA_Aerofleet.lifeStages.2.label>Aerofleet</AA_Aerofleet.lifeStages.2.label>
+  <AA_Aerofleet.lifeStages.2.labelPlural>Aerofleets</AA_Aerofleet.lifeStages.2.labelPlural>
+  <AA_ColossalAerofleet.label>Riesiges Aerofleet</AA_ColossalAerofleet.label>
+  <AA_ColossalAerofleet.labelPlural>Riesige Aerofleets</AA_ColossalAerofleet.labelPlural>
+  <AA_ColossalAerofleet.lifeStages.0.label>Riesiges Aerofleet</AA_ColossalAerofleet.lifeStages.0.label>
+  <AA_ColossalAerofleet.lifeStages.0.labelPlural>Riesige Aerofleets</AA_ColossalAerofleet.lifeStages.0.labelPlural>
+  <AA_ColossalAerofleet.lifeStages.1.label>Riesiges Aerofleet</AA_ColossalAerofleet.lifeStages.1.label>
+  <AA_ColossalAerofleet.lifeStages.1.labelPlural>Riesige Aerofleets</AA_ColossalAerofleet.lifeStages.1.labelPlural>
+  <AA_ColossalAerofleet.lifeStages.2.label>Riesiges Aerofleet</AA_ColossalAerofleet.lifeStages.2.label>
+  <AA_ColossalAerofleet.lifeStages.2.labelPlural>Riesige Aerofleets</AA_ColossalAerofleet.lifeStages.2.labelPlural>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_Slurrypede.label>Schlammfüssler</AA_Slurrypede.label>
+  <AA_Slurrypede.description>Obwohl selten, sind Mechanoide dafür bekannt, Gefangene zu fangen, und der Schlammfüssler ist ihre Lösung, um sie so effizient wie möglich zu füttern. Der Schlammfüssler ist ein modifizierter Bio-Mechanoid, das in der Lage ist, fast alles zu verschlingen und zu einer homogenen organischen Schlamm zu verarbeiten. Dieser Schlamm ist essbar, jedoch kaum.
+
+Schlammfüssler sind zahm, fast nie feindselig, und falls eine mechanoide Basis zerstört wird und einer von ihnen überleben kann, neigen sie dazu, ziellos durch die Wildnis zu streifen, indem sie jegliches organische Material auf ihrem Weg konsumieren und es in Nährstoffpaste verwandeln.</AA_Slurrypede.description>
+  <AA_Slurrypede.tools.0.label>Kopf</AA_Slurrypede.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <AA_Slurrypede_Corpse.label>Toter Schlammfüssler</AA_Slurrypede_Corpse.label>
+  <AA_Slurrypede_Corpse.description>Die Leiche eines Schlammfüsslers.</AA_Slurrypede_Corpse.description>
+</LanguageData>
